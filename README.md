@@ -4,9 +4,9 @@ An example is:
 
 ```json
 {
-    title: "How can I earn credits",
-    author: "Username#0001",
-    content: "<p>Use ?daily to earn 200$ daily!</p>"
+    "title": "How can I earn credits",
+    "author": "Username#0001",
+    "content": "<p>Use ?daily to earn 200$ daily!</p>"
 }
 ```
 
