@@ -1,12 +1,12 @@
-All documentat entries have the format JSON
+All documentation entries have the format JSON
 
 An example is: 
 
 ```json
 {
-    title: "",
-    author: "",
-    content: ""
+    title: "How can I earn credits",
+    author: "Username#0001",
+    content: "<p>Use ?daily to earn 200$ daily!</p>"
 }
 ```
 
