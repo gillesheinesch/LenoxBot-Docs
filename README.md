@@ -10,4 +10,4 @@ An example is:
 }
 ```
 
-In the content you are allowed to use html tags!
+In the content you have to use html tags! This site can help you: https://www.onlinehtmleditor.net/
