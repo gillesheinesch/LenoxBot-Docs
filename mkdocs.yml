@@ -20,6 +20,7 @@ copyright: 'Copyright &copy; 2017 - 2018 LenoxBot'
 
 # Configuration
 theme:
+  favicon: 'lenoxbot.png'
   name: 'material'
   language: 'en'
   palette:
@@ -45,9 +46,9 @@ pages:
       - Bot:
         - 'My credits are gone. What can I do?': 'General FAQ/Bot/my credits are gone.md'
       - Help:
-        - 'Test': 'General FAQ/Bot/test1.md'
+        - 'Where can I receive support?': 'General FAQ/Help/where can I receive support.md'
       - Website:
-        - 'Test': 'General FAQ/Bot/test1.md'
+        - 'Dashboard': 'General FAQ/Website/dashboard.md'
     - Tutorials:
-      - 'Test': Tutorials/test2.md    
+      - 'Set up application module': Tutorials/set up application module.md    
 
