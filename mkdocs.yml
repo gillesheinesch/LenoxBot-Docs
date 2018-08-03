@@ -46,7 +46,7 @@ pages:
       - Bot:
         - 'My credits are gone. What can I do?': 'General FAQ/Bot/my credits are gone.md'
       - Help:
-        - 'Where can I receive support?': 'General FAQ/Help/where can I receive support.md'
+        - 'Support': 'General FAQ/Help/support.md'
       - Website:
         - 'Dashboard': 'General FAQ/Website/dashboard.md'
     - Tutorials:
