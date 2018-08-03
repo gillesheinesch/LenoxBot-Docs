@@ -3,6 +3,6 @@ description: A good explained tutorial how to fully set up the application modul
 
 # Set up application module
 
-Content here
+How to set up the application module
 
 
