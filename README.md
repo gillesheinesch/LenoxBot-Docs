@@ -3,24 +3,28 @@ All documentation entries have the format JSON
 An example is: 
 
 ```md
+title: Name of the file
+description: Description of the what's explained in this file
+
 # Getting started
 
-For full documentation visit [lenoxbot.com](https://lenoxbot.com).
+**Hello,**
+Here we are! Here is the "Getting started" page!
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* ?help - Shows you the help list
+* ?commands {module} - Shows you a list of all commands of a specific module
+* ?website - Shows you all websites of LenoxBot
 
-## Project layout
+## Another example
 
-Content
+Here you can see another example!
 ```
 
 ## What do I need to pay attention for?
-- If you add a new entry, you must also enter this in the mkdocs.yml
+- The title has to be the same as the name of the file
+- The description should explain what's the content about
 - All entries should be clear and understandable
 
 If you don't know MD (Markdown) well, this site can help you a lot: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

@@ -1,4 +1,4 @@
-title: Help commands
+title: Help 
 description: All commands of the help module
 
 # Help commands

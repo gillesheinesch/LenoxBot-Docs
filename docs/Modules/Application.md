@@ -1,4 +1,4 @@
-title: Application commands
+title: Application 
 description: All commands of the application module
 
 # Application commands

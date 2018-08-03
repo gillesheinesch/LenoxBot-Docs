@@ -1,4 +1,4 @@
-title: Searches commands
+title: Searches 
 description: All commands of the searches module
 
 # Searches commands

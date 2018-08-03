@@ -1,4 +1,4 @@
-title: Getting started with LenoxBot
+title: Getting started
 description: An introduction into LenoxBot and it's features
 
 # Getting started

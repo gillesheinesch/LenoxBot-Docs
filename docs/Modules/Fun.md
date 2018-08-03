@@ -1,4 +1,4 @@
-title: Fun commands
+title: Fun 
 description: All commands of the fun module
 
 # Fun commands

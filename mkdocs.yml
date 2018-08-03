@@ -38,29 +38,3 @@ extra:
     - type: 'github'
       link: 'https://github.com/LenoxBot/LenoxBot-Docs/'
 
-#Pages
-pages:
-    - 'index.md'
-    - Getting started: gettingstarted.md
-    - General FAQ:
-      - Bot:
-        - 'My credits are gone': 'General FAQ/Bot/my credits are gone.md'
-      - Help:
-        - 'Support': 'General FAQ/Help/support.md'
-      - Website:
-        - 'Dashboard': 'General FAQ/Website/dashboard.md'
-    - Tutorials:
-      - 'Set up application module': Tutorials/application module.md
-    - Commands:
-      - 'Administration': Commands/administration.md  
-      - 'Moderation': Commands/moderation.md
-      - 'Help': Commands/help.md
-      - 'Music': Commands/music.md
-      - 'Fun': Commands/fun.md
-      - 'Searches': Commands/searches.md
-      - 'NSFW': Commands/nsfw.md
-      - 'Utility': Commands/utility.md
-      - 'Application': Commands/application.md
-      - 'Currency': Commands/currency.md
-      - 'Tickets': Commands/tickets.md
-
