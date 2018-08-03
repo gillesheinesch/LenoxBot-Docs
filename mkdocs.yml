@@ -43,7 +43,7 @@ pages:
     - Getting started: gettingstarted.md
     - General FAQ:
       - Bot:
-        - 'Test': 'General FAQ/Bot/test1.md'
+        - 'My credits are gone. What can I do?': 'General FAQ/Bot/my credits are gone.md'
       - Help:
         - 'Test': 'General FAQ/Bot/test1.md'
       - Website:
