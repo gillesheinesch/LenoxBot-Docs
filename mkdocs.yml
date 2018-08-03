@@ -8,6 +8,13 @@ site_url: 'https://lenoxbot.com'
 repo_name: 'LenoxBot/LenoxBot-Docs'
 repo_url: 'https://github.com/LenoxBot/LenoxBot-Docs'
 
+# Extensions
+markdown_extensions:
+  - admonition
+  - meta
+  - toc:
+      permalink: true
+
 # Copyright
 copyright: 'Copyright &copy; 2017 - 2018 LenoxBot'
 
