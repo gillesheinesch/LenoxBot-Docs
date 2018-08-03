@@ -39,6 +39,7 @@ extra:
 
 #Pages
 pages:
+    - 'index.md'
     - Getting started: gettingstarted.md
     - General FAQ:
       - Bot:
