@@ -1,3 +1,31 @@
-site_name: LenoxBot Documentation
+# Project information
+site_name: 'Material for MkDocs'
+site_description: 'LenoxBot offers many cool new features to your Discord Server!'
+site_author: 'LenoxBot'
+site_url: 'https://lenoxbot.com'
+
+# Repository
+repo_name: 'LenoxBot/LenoxBot-Docs'
+repo_url: 'https://github.com/LenoxBot/LenoxBot-Docs'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 - 2018 LenoxBot'
+
+# Configuration
 theme:
   name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Customization
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/lenoxbot'
+    - type: 'discord'
+      link: 'https://lenoxbot.com/discord'
