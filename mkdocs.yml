@@ -1,5 +1,5 @@
 # Project information
-site_name: 'Material for MkDocs'
+site_name: 'LenoxBot Documentation'
 site_description: 'LenoxBot offers many cool new features to your Discord Server!'
 site_author: 'LenoxBot'
 site_url: 'https://lenoxbot.com'
@@ -27,5 +27,19 @@ extra:
   social:
     - type: 'twitter'
       link: 'https://twitter.com/lenoxbot'
-    - type: 'discord'
-      link: 'https://lenoxbot.com/discord'
+    - type: 'github'
+      link: 'https://github.com/LenoxBot/LenoxBot-Docs/'
+
+#Pages
+pages:
+    - Getting started: gettingstarted.md
+    - General FAQ:
+      - Bot:
+        - 'Test': 'General FAQ/Bot/test1.md'
+      - Help:
+        - 'Test': 'General FAQ/Bot/test1.md'
+      - Website:
+        - 'Test': 'General FAQ/Bot/test1.md'
+    - Tutorials:
+      - 'Test': Tutorials/test2.md    
+
