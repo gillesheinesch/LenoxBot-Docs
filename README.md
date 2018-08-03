@@ -3,13 +3,7 @@ All documentation entries have the format JSON
 An example is: 
 
 ```md
-{
-    "title": "title",
-    "author": "user#tag",
-    "date": "DD/MM/YYYY",
-    "content": "<p>content</p>",
-    "tags": "tag, tag, tag"
-}
+In preparation
 ```
 
 ## What do I need to pay attention for?
