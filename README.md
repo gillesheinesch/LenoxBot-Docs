@@ -12,7 +12,7 @@ An example is:
 ```
 
 ## What do I need to pay attention for?
-- In content, you have to put a *\** in front of each **"**
+- In content, you have to put a \ in front of each "
 - You also have to change the date if you update the Documentation entry
 - In the content you have to use html tags! This site helps you much: https://www.onlinehtmleditor.net/ or our own website https://lenoxbot.com/editdocumentation
 
