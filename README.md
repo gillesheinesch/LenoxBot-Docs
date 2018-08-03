@@ -2,7 +2,7 @@ All documentation entries have the format JSON
 
 An example is: 
 
-```json
+```md
 {
     "title": "title",
     "author": "user#tag",
