@@ -5,7 +5,7 @@ description:
 
 Click on the **[Donate](https://lenoxbot.com/donate)** button in the navigation bar on top of **[our website](https://lenoxbot.com)**.
 
-IMAGE
+![DonateButton](https://i.imgur.com/t6V4vh4.png)
 
 * You choose the amount you want to pay.
 * You decide if you want to donate once or monthly.
