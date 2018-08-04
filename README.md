@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lenoxbot.com/">
-    <img src="lenoxbot.png" alt="LenoxBot Logo" width=72 height=72>
+    <img src="./docs/lenoxbot.png" alt="LenoxBot Logo" width=72 height=72>
   </a>
 
   <h3 align="center">LenoxBot Documentation</h3>
