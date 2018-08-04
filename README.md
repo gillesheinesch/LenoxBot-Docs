@@ -40,23 +40,22 @@ Here we are! Here is the "Getting started" page!
 * Write a new README
 ```
 
-## I found a typo, what can I do?
-
-We would be glad if you would let us know about this error by creating an issue report.
-You can create an issue report **[here](https://github.com/Monkeyyy11/LenoxBot/issues)
-
-## Feature Request
-
-If you miss something in our documentation, then you are welcome to suggest it and we will implement it as soon as possible!
-You can create a feature request **[here](https://github.com/Monkeyyy11/LenoxBot/issues)
-
-
-## What do I need to pay attention for?
+# What do I need to pay attention for?
 
 - The title (that is on top of each Markdown file) has to be the same as the name of the file.
 - The description (that is on top of each Markdown file) should not contain more than 30 words and explain what's the content about.
 - All documentation entries should be clear and understandable
 - Any newly created documentation entries must have the markdown format (.md at the end of the filename).
+
+## I found a typo, what can I do?
+
+We would be glad if you would let us know about this error by creating an issue report.
+You can create an issue report **[here](https://github.com/Monkeyyy11/LenoxBot/issues)**
+
+## Feature Request
+
+If you miss something in our documentation, then you are welcome to suggest it and we will implement it as soon as possible!
+You can create a feature request **[here](https://github.com/Monkeyyy11/LenoxBot/issues)**
 
 ## What is Markdown (md)?
 
