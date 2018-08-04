@@ -1,5 +1,5 @@
 title: Documentation-Moderator
-description:
+description: If you want to be a Documentation-Moderator, here you can find how you become a Documentation-Moderator
 
 # How to become a Documentation-Moderator of LenoxBot?
 
