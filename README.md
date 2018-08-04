@@ -19,25 +19,18 @@
 
 An example of a Markdown file is:
 ```md
-title: Name of the file (Only search engines will see this title!)
-description: Description of the what's explained in this article (Only search engines will see this description!)
+title: Reminder of daily (Only search engines will see this description!)
+description: If you want to activate the daily reminder, here you can find how you do this (Only search engines will see this description!)
 
-# Getting started
+# Reminder of daily
 
-**Hello,**
-Here we are! Here is the "Getting started" page!
+You want a reminder for your daily rewards? That's no problem!
+Use the command **?dailyremind** and your daily reminder is activated. 
 
-## Commands
+If you want to delete the daily reminder, you must only use the command again.
+You don't understand the command? Use **?help dailyremind**:
 
-* `?help` - Shows you the help list
-* `?commands` {module} - Shows you a list of all commands of a specific module
-* `?website` - Shows you all websites of LenoxBot
-
-## TODO List
-
-* Fix proposal bug
-* Make a new proposal
-* Write a new README
+![HELPMESSAGE](https://i.imgur.com/ZY1Gsde.png)
 ```
 
 # What do I need to pay attention for?
