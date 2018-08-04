@@ -47,6 +47,10 @@ Here we are! Here is the "Getting started" page!
 - All documentation entries should be clear and understandable
 - Any newly created documentation entries must have the markdown format (.md at the end of the filename).
 
+## Create a pull request
+
+You can also help us to write and/or update documentation entries. After you edit a documentation entry, you have to create a pull request what you can do **[here](https://github.com/LenoxBot/LenoxBot-Docs/pulls)**.
+
 ## I found a typo, what can I do?
 
 We would be glad if you would let us know about this error by creating an issue report.
