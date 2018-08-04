@@ -66,6 +66,10 @@ You can create a feature request **[here](https://github.com/Monkeyyy11/LenoxBot
 Markdown is a lightweight markup language with plain text formatting syntax. (Source: Wikipedia)
 If you don't know Markdown (md) well, this site can help you a lot: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+## How can I create such alert boxes?
+
+All information can be found **[here](https://squidfunk.github.io/mkdocs-material/extensions/admonition/#info)**
+
 ## Contact us!
 
 If there are any questions, you can contact Monkeyyy11#0001 or Dadi#7808 on Discord.
