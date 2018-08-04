@@ -6,7 +6,7 @@ description:
 Explain how to donate the LenoxBot.
 
 * Click on the [Donate](https://lenoxbot.com/donate) button.
-* You choose the ammount you want to pay.
+* You choose the amount you want to pay.
 * You decide if you want to donate once or monthly.
 * Then you click on the "Continue" button.
 * You fill out the contact informations.
