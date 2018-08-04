@@ -46,6 +46,7 @@ Here we are! Here is the "Getting started" page!
 - The description (that is on top of each Markdown file) should not contain more than 30 words and explain what's the content about.
 - All documentation entries should be clear and understandable
 - Any newly created documentation entries must have the markdown format (.md at the end of the filename).
+- Please set in every entry a headline with # [name of headline]
 
 ## Create a pull request
 
