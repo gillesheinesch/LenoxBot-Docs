@@ -3,4 +3,12 @@ description: All commands of the administration module
 
 # Administration commands
 
-Commands explained
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `?activatemodule/?am`- Activates a module and its commands on a Discord server
