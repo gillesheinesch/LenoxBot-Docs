@@ -3,9 +3,10 @@ description:
 
 # Donate now!
 
-Explain how to donate the LenoxBot.
+Click on the **[Donate](https://lenoxbot.com/donate)** button in the navigation bar on top of **[our website](https://lenoxbot.com)**.
 
-* Click on the [Donate](https://lenoxbot.com/donate) button.
+IMAGE
+
 * You choose the amount you want to pay.
 * You decide if you want to donate once or monthly.
 * Then you click on the "Continue" button.
