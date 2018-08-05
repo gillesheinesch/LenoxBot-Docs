@@ -20,6 +20,8 @@ Now, you can define the "Mute" Role for the Bot with `?muterole` *rolename*
 
 ![Image Muterole](https://i.imgur.com/dJ0wFZS.png)
 
-That's it. Now you can use `?mute` *@User time{d, h, m, s} {reason}*
+**That's it.** Now you can use `?mute` *@User time{d, h, m, s} {reason}*
 
 ![Image Mute](https://i.imgur.com/mHJdqrR.png)
+
+*And now:* Take away the troublemakers. :)
