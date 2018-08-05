@@ -1,5 +1,5 @@
 title: Set up the mute Command
-description: A tutorial, how to set-up the ?mute Command correctly
+description: A tutorial, how to set-up the mute Command correctly
 
 # Set up the `mute` command
 
