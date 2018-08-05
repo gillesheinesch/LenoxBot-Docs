@@ -47,7 +47,7 @@ An example for this would be:
 
 **?listentry**: With this Command, you can see all Entries, you’ve addeded.
 
-![Image Listentry]https://i.imgur.com/4tnufYL.png)
+![Image Listentry](https://i.imgur.com/4tnufYL.png)
 
 **?reactionnumber**: With this Command, you can define the number of Reactions, which are required to accdept or reject the application (also at Dashboard). 
 An example for this would be:
