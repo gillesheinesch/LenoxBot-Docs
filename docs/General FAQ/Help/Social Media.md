@@ -1,7 +1,9 @@
 title: Social Media
-description:
+description: Here you can find all of the LenoxBot Social Media accounts
 
 # Social Media
 
-All accounts that we have and what we post on them
+Here is a list of all our Social Media accounts, we post updates and giveaways on them.
 
+* We have [Twitter](https://twitter.com/lenoxbot)
+* And we also has [Facebook](https://www.facebook.com/lenoxbotdiscord)
