@@ -3,12 +3,39 @@ description: All commands of the administration module
 
 # Administration commands
 
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
-* `?activatemodule/?am`- Activates a module and its commands on a Discord server
+* `activatemodule {modulename}` - Activates a module and its commands on a Discord server (Needed permissions: ADMINISTRATOR)
+* `addautomaticrole {points} {rolename}` - Adds an auto assignable role (Needed permissions: ADMINISTRATOR)
+* `addchatfilter` - Inserts a new entry in the chatfilter (Needed permissions: ADMINISTRATOR)
+* `addrole @User {rolename}` - Assigns a role to a Discord member (Needed permissions: MANAGE_ROLES)
+* `addselfassignablerole {rolename}` - Add a role that allows users to assign themselves (Needed permissions: ADMINISTRATOR)
+* `announce {text}` - Write a new server announcement (Needed permissions: ADMINISTRATOR)
+* `availablelanguages` - Shows you a list in which language the bot is available and can be changed (Needed permissions: none)
+* `bye` - Disables the goodbye message (Needed permissions: ADMINISTRATOR)
+* `byemsg {bye msg}` - Sets a message to say goodbye to your users (Needed permissions: ADMINISTRATOR)
+* `commanddeletion` - Toggles the deletion of a command after execution (Needed permissions: ADMINISTRATOR)
+* `createrole {rolename}` - Creates a role with a color and a name (Needed permissions: MANAGE_ROLES)
+* `deactivatemodule {modulename}` - Disables a module and its commands on a Discord server (Needed permissions: ADMINISTRATOR)
+* `delevents` - Deletes all active events on this server (Needed permissions: ADMINISTRATOR)
+* `events` - Gives you a list of all active/disabled events (Needed permissions: ADMINISTRATOR)
+* `language {name of the language (in english)}` - Changes the language of the bot for this server (Needed permissions: ADMINISTRATOR)
+* `listautomaticrole` - Lists all auto assignable roles (Needed permissions: ADMINISTRATOR)
+* `listchatfilter` - Lists all chatfilter entries (Needed permissions: ADMINISTRATOR)
+* `listevents` - Lists you all events that you can log on your server (Needed permissions: MANAGE_GUILD)
+* `listmodules` - Lists all active/disabled modules (Needed permissions: ADMINISTRATOR)
+* `log {event}` - Allows you to log for different channels, different events. The command 'listevents' will give you a list of all events (Needed permissions: ADMINISTRATOR)
+* `msgoptions` - Shows you a list of all available options for your welcome and bye message (Needed permissions: none)
+* `muterole {rolename}` - Defines a muted role which muted users will get (Needed permissions: ADMINISTRATOR)
+* `prefix {new prefix}` - Changes the prefix of the server or shows you the current prefix if you just use ?prefix (Needed permissions: ADMINISTRATOR)
+* `removeautomaticrole {rolename}` - Removes an auto assignable role (Needed permissions: ADMINISTRATOR)
+* `removechatfilter bitch` - Removes words from the chatfilter (Needed permissions: ADMINISTRATOR)
+* `removerole @User {rolename}` - Removes a role to a Discord member (Needed permissions: MANAGE_ROLES)
+* `removeselfassignablerole {rolename}` - Remove a role that allows users to assign themselves (Needed permissions: ADMINISTRATOR)
+* `setchanneltopic {New Channeltopic}` - Sets a new channel topic for the current channel (Needed permissions: MANAGE_CHANNELS)
+* `skipnumber {number}` - Changes the necessary votes to skip music for users (Needed permissions: ADMINISTRATOR)
+* `toggleannounce` - Sets a channel for announcements, where you can use the announce-command (Needed permissions: ADMINISTRATOR)
+* `togglechatfilter` - Set the chatfilter on or off (Needed permissions: ADMINISTRATOR)
+* `togglexp {add/remove/list} [channelname]` - Add channels in which you can not get XP (Needed permissions: MANAGE_GUILD)
+* `togglexpmessages` - Set the xp messages on or off (Needed permissions: ADMINISTRATOR)
+* `welcome` - Toggles the welcome message in this channel (Needed permissions: ADMINISTRATOR)
+* `welcomemsg {welcome msg}` - Sets a welcome message to greet your users (Needed permissions: ADMINISTRATOR)
+* `skipvote` - Toggles the skipvote function (Needed permissions: ADMINISTRATOR)
