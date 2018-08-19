@@ -31,7 +31,7 @@ Now you have the option to pay by credit card or PayPal.
 ## How do I pay with the credit card?
 Please provide all the information you need:
 
-[!CreditCard](https://i.imgur.com/JPffVN2.png)
+![CreditCard](https://i.imgur.com/JPffVN2.png)
 
 If you are finished, you can click on the green button below.
 If your payment has been successful you will be redirected to the LenoxBot site!
@@ -40,7 +40,7 @@ If your payment has been successful you will be redirected to the LenoxBot site!
 ## How do I pay with PayPal?
 You click on the green button below to be redirected to Paypal:
 
-[!PayPal](https://i.imgur.com/VsMhTsl.png)
+![PayPal](https://i.imgur.com/VsMhTsl.png)
 
 Lastly, you must log in and pay with your PayPal account details!
 If your payment has been successful you will be redirected to the LenoxBot site!
