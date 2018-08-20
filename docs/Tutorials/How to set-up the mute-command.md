@@ -7,16 +7,16 @@ In this tutorial I'll show you, how to set up the `?mute` command, that it works
 
 It's really easy, so **lets go**. :D
 
-First, you have to create a new role, or use a role that exists already.
-The role **shouldn't** have the following permissions:
+First, you have to create a new role, or choose a role that already exists.
+The role **shouldn't** have the following permission:
 
 ![Image Permisson](https://i.imgur.com/Nr0TfQk.png)
 
-Also, the position of the role **should** be **over** the roles, that should be able to mute, so the "Mute" role can overwrite the text-permissions of the roles, which position is under the "Mute" role.
+Also, the position of the "Mute" role **should** be **above** the muteable roles, to make shure that the "Mute" role can overwrite the text-permissions of the roles, which are below the "Mute" role.
 
 ![Image Role-Postition](https://i.imgur.com/yBvWJ5N.png)
 
-Now, you can define the "Mute" role for the bot with `?muterole` *rolename*
+After that, define the "Mute" role for LenoxBot with `?muterole` *rolename*
 
 ![Image Muterole](https://i.imgur.com/dJ0wFZS.png)
 
