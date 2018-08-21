@@ -21,7 +21,6 @@ description: All commands of the utility module
 * `ranks` - Ranking list, sorted by points (Needed permissions: none)
 * `redeem {key}` - Redeem a redeem key from another Discord user (Needed permissions: none)
 * `redeemkey` - Shows you your redeem key so that other users can redeem it (Needed permissions: none)
-* `embed {text}` - undefined (Needed permissions: none)
 * `roles` - A list of all roles on your Discord server (Needed permissions: none)
 * `serverinfo` - Shows you some information about the current Discord server (Needed permissions: none)
 * `setprofiledescription {description}` - Sets a global profile description (Needed permissions: none)
