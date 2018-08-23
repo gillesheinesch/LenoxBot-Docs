@@ -20,6 +20,6 @@ After you have answered all the questions, your suggestion will be sent in the #
 
 After your suggestion has been accepted by three different Proposalwriters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.
 
-# How do I become Proposalwriter?
+# How do I become a Proposalwriter?
 
-If you want to become Proposalwriter, please visit this description: [How to become Proposalwriter](https://docs.lenoxbot.com/General%20FAQ/Team/Proposal-Writer/)
+If you want to become Proposalwriter, please visit this description: [How to become a Proposalwriter](https://docs.lenoxbot.com/General%20FAQ/Team/Proposal-Writer/)
