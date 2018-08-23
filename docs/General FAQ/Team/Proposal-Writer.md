@@ -1,9 +1,9 @@
-title: How to become Proposalwriter
+title: How to become a Proposalwriter
 description: If you want to become Proposalwriter, read the following steps
 
-# How to become Proposalwriter?
+# How to become a Proposalwriter?
 
-If you want to become Proposalwriter, do the following steps:
+If you want to become a Proposalwriter, do the following steps:
 
 We have developed a pointsystem which decides when you become be a Proposalwriter.
 
