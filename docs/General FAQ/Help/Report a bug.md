@@ -15,7 +15,7 @@ If you want to report a bug, do the following steps:
 
 ![Bugreport Questions](https://i.imgur.com/gBsfbn8.png)
 
-* After you filled out all answers of LenoxBot wait for feedback from a Bugreporter.
+* After you filled out all answers of the Bot and wait for feedback from a Bugreporter.
 * Every "Bugreporter" can accept your bugreport, reject it, add some notes or attach a screenshot.
 * After your bugreport has been accepted by three different Bugreporters, you will receive 100 credits as a reward and your report will be moved to the archive.
 
