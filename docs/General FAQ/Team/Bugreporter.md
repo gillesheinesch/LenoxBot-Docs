@@ -1,4 +1,4 @@
-title: How to become a Bugreporter
+title: Bugreporter
 description: If you want to become Bugreporter, read the following steps
 
 # How do I become a Bugreporter?

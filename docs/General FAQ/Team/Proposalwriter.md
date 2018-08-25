@@ -1,4 +1,4 @@
-title: How to become a Proposalwriter
+title: Proposalwriter
 description: If you want to become Proposalwriter, read the following steps
 
 # How to become a Proposalwriter?
