@@ -6,6 +6,7 @@ description: If you want to report a bug, here you can find how you report a bug
 If you want to report a bug, do the following steps:
 
 * Join the LenoxBot Discord Server: [Join](https://lenoxbot.com/discord/)
+
 * Go to the [`#bugreports`](https://discord.gg/qvAHreR) channel.
 * Then type `?bugreport` in the chat.
 
