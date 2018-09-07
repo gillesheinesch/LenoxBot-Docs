@@ -3,6 +3,7 @@ description: If you want to know how you become an Administrator, this entry exp
 
 # Whats an Administrator?
 Administrators are **managers** who manage the whole bot and staff team. You identify Administrators with the red role "Administrator" on our [Support Discord server](https://discordapp.com/invite/c7DUz35 "Invitation to the LenoxBot Discord server").
+
 ![Administrator color](https://i.imgur.com/Acz2hDH.png)
 
 Tasks of an Administator:
