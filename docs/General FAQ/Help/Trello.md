@@ -12,4 +12,3 @@ On our Trello board you can find many categories that shows you the progress of 
 The Trello board is in **view only** mode, because it updates on every change of any bugreport or proposal automatically.
 
 Feel free to search your topic on our Trello board to prevent duplicated bugreports and suggestions.
-
