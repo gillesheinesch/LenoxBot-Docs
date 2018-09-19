@@ -1,6 +1,6 @@
 title: test
 description: test
 
-# Profxy stinkt auch.
+# Profxy stinkt nicht, nur Nickkel :3
 
 hi
