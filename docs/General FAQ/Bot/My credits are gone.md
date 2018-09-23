@@ -7,8 +7,8 @@ Rarely it happens that credits just disappear, so we need precise information wh
 
 That's why we ask you to create a ticket (**?ticket**) on the LenoxBot Discord Server with the following informations:
 
-* Your discord username 
-* Your UserID
+* Your Discord username 
+* Your userID
 * When did you have your credits? 
 * Which commands did you use before your credits disappear?
 
