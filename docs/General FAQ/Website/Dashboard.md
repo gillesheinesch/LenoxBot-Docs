@@ -16,9 +16,9 @@ On our Dashboard you can do the following things:
 
 # Where can I find the Dashboard?
 
- Here you can find our Dashboard:
- 
- * Click on the Dashboard-Button: [Dashboard](https://lenoxbot.com/dashboard/id/overview)
- * If you aren't logged in now please click on the "Log in" button in the right corner of the website.
- * If you aren't logged in with your Discord Account you have to login so you can authorize the LenoxBot.
+Here you can find our Dashboard:
+
+* Click on the Dashboard button: [Dashboard](https://lenoxbot.com/dashboard/id/overview)
+* If you aren't logged in now, please click on the "Dashboard" button in the right corner auf the website.
+* If you aren't logged in with your Discord account, you have to login, so you can authorize the LenoxBot.
 * Than you see a list of all your servers, click on the "Dashboard" button under the server, so you can get to the Dashboard of the server.
