@@ -1,70 +1,15 @@
-<p align="center">
-  <a href="https://lenoxbot.com/">
-    <img src="./docs/lenoxbot.png" alt="LenoxBot Logo" width=72 height=72>
-  </a>
+# LenoxBot
 
-  <h3 align="center">LenoxBot Documentation</h3>
+**Welcome on the documentation of LenoxBot!**
 
-  <p align="center">
-    LenoxBot offers many cool new features to your Discord Server!
-    <br>
-    <a href="https://docs.lenoxbot.com"><strong>Explore LenoxBot docs »</strong></a>
-    <br>
-    <br>
-    <a href="https://lenoxbot.com">Website</a>
-  </p>
-</p>
+LenoxBot was created on **September 5th**. Since then we have released over **2000** updates and spent over **1000** hours making the bot more user-friendly than any other bot!
 
-<br>
+Our goal was and still is to provide every botuser an all-in bot so he doesn't have to invite 10 other bots for all the features that he wants to have on his discord server.
 
-An example of a Markdown file is:
-```md
-title: Reminder of daily (Only search engines will see this description!)
-description: If you want to activate the daily reminder, here you can find how you do this (Only search engines will see this description!)
+We released our own website including the dashboard in May and it offers you a place where you can set up almost all settings of the bot via your browser!
 
-# Reminder of daily
+!!! info
+    More about our website and Dashboard can be found **[here](https://docs.lenoxbot.com/General%20FAQ/Website/dashboard/)**.
 
-You want a reminder for your daily rewards? That's no problem!
-Use the command **?dailyremind** and your daily reminder is activated. 
+If you are a new user of LenoxBot, I would advise you to read on **[Getting started](https://docs.lenoxbot.com/Getting%20started/)** so that you will quickly become familiar with LenoxBot!
 
-If you want to delete the daily reminder, you must only use the command again.
-You don't understand the command? Use **?help dailyremind**:
-
-![HELPMESSAGE](https://i.imgur.com/ZY1Gsde.png)
-```
-
-# What do I need to pay attention for?
-
-- The title (that is on top of each Markdown file) has to be the same as the name of the file.
-- The description (that is on top of each Markdown file) should not contain more than 30 words and explain what's the content about.
-- All documentation entries should be clear and understandable
-- Any newly created documentation entries must have the markdown format (.md at the end of the filename).
-- Please set in every entry a headline with # [name of headline]
-
-## Create a pull request
-
-You can also help us to write and/or update documentation entries. After you edit a documentation entry, you have to create a pull request what you can do **[here](https://github.com/LenoxBot/LenoxBot-Docs/pulls)**.
-
-## I found a typo, what can I do?
-
-We would be glad if you would let us know about this error by creating an issue report.
-You can create an issue report **[here](https://github.com/Monkeyyy11/LenoxBot/issues)**
-
-## Feature Request
-
-If you miss something in our documentation, then you are welcome to suggest it and we will implement it as soon as possible!
-You can create a feature request **[here](https://github.com/Monkeyyy11/LenoxBot/issues)**
-
-## What is Markdown (md)?
-
-Markdown is a lightweight markup language with plain text formatting syntax. (Source: Wikipedia)
-If you don't know Markdown (md) well, this site can help you a lot: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-## How can I create such alert boxes?
-
-All information can be found **[here](https://squidfunk.github.io/mkdocs-material/extensions/admonition/#info)**
-
-## Contact us!
-
-If there are any questions, you can contact Monkeyyy11#0001 or Dadi#7808 on Discord.
-You can also join our Discord Server **[here](https://lenoxbot.com/discord)**
