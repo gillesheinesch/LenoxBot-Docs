@@ -1,6 +1,6 @@
 # LenoxBot
 
-**Welcome on the documentation of LenoxBot!**
+**Welcome on the Documentation of LenoxBot!**
 
 LenoxBot was created on **September 5th**. Since then we have released over **2000** updates and spent over **1000** hours making the bot more user-friendly than any other bot!
 
