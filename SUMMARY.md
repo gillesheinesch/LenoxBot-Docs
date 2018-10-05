@@ -18,8 +18,6 @@
   * [Proposalwriter](team/proposalwriter.md)
   * [Moderator](team/moderator.md)
   * [Translator](team/translator.md)
-* [.gitbook](.gitbook/README.md)
-  * [PULL\_REQUEST\_TEMPLATE](.gitbook/pull_request_template.md)
 * [Help](help/README.md)
   * [Support](help/support.md)
   * [Social Media](help/social-media.md)
