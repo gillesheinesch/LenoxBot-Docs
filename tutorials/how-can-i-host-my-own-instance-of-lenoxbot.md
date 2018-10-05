@@ -46,5 +46,7 @@ To invite the Bot on your Discord aerver, copy the Client ID of your Bot applica
 
 Now you can create an invite link for your Bot [here](https://discordapi.com/permissions.html) for example.
 
+{% hint style="info" %}
 If you need any help, you can join our [Discord Server](https://lenoxbot.com/discord)
+{% endhint %}
 

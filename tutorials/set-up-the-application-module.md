@@ -68,5 +68,7 @@ First, we want to explain you all the commands in detail. Just enter **“?cmds 
 
 **How can you apply now and how does the process take place?** If you have set up everything on the Discord server \(or Dashboard\), there won't be anything in your way! The user can use the commmand ?application in a channel in which he has the permissions to write and a new application form will be created. After that, he will be asked every question one by one and has to answer to them. Otherwise, his application won't be sent. Then, the questions and answers can be shown at the website, the Link to the Application is in the Notification Chanel. There the application have two Buttons; with the first one, the application can be accepted and with the second one it can be denied. In case of an accepted application, the user will get the the role that was already defined before.
 
+{% hint style="success" %}
 _That’s it, now go and change the world with your applications._
+{% endhint %}
 

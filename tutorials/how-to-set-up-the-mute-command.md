@@ -22,5 +22,9 @@ After that, define the "Mute" role for LenoxBot with `?muterole` _rolename_
 
 ![Mute](https://i.imgur.com/mHJdqrR.png)
 
-_And now:_ Take away the troublemakers. :\)
+{% hint style="success" %}
+ _And now:_ Take away the troublemakers. :\)
+{% endhint %}
+
+
 

@@ -7,7 +7,6 @@ There is more than one possibility to receive support. Here is a list of all sup
 * Support Discord Server
 * Ticket on our support discord Server
 * Documentation
-* Website LiveChat
 
 ### Support Discord Server
 
@@ -17,7 +16,5 @@ We set up a discord server where you can discuss with users of our Bot and ask a
 
 ### Create a ticket on our Support Discord server
 
-### Read through our documentation
-
-### LiveChat
+### Read through our Documentation
 
