@@ -1,4 +1,0 @@
-# Commands
-
-title: Commands description:
-
