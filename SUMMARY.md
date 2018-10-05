@@ -1,7 +1,6 @@
 # Table of contents
 
 * [LenoxBot](README.md)
-* [LenoxBot](lenoxbot.md)
 * [Tutorials](tutorials/README.md)
   * [How to set-up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
   * [How to create a playlist](tutorials/how-to-create-a-playlist.md)

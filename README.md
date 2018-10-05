@@ -8,7 +8,7 @@ Our goal was and still is to provide every botuser an all-in bot so he doesn't h
 
 We released our own website including the dashboard in May and it offers you a place where you can set up almost all settings of the bot via your browser!
 
-!!! info
-    More about our website and Dashboard can be found **[here](https://docs.lenoxbot.com/General%20FAQ/Website/dashboard/)**.
+!!! info More about our website and Dashboard can be found [**here**](https://docs.lenoxbot.com/General%20FAQ/Website/dashboard/).
 
-If you are a new user of LenoxBot, I would advise you to read on **[Getting started](https://docs.lenoxbot.com/Getting%20started/)** so that you will quickly become familiar with LenoxBot!
+If you are a new user of LenoxBot, I would advise you to read on [**Getting started**](https://docs.lenoxbot.com/Getting%20started/) so that you will quickly become familiar with LenoxBot!
+
