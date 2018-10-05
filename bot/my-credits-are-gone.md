@@ -1,7 +1,5 @@
 # My credits are gone
 
-title: My credits are gone description: If you lost your credits, here you can find information what you can do then
-
 ## My credits are gone, what can I do?
 
 Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.

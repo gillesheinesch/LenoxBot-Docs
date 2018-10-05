@@ -1,7 +1,5 @@
 # Moderator
 
-title: Moderator description: If you want to become a Moderator, here you can find how you become a Moderator
-
 ## How to become a Moderator of LenoxBot?
 
 If you want to be a Moderator, do the following steps:

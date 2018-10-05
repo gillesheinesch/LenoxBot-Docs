@@ -1,7 +1,5 @@
 # Donate
 
-title: Donate description:
-
 ## Donate now!
 
 Click on the [**Donate**](https://lenoxbot.com/donate) button in the navigation bar on top of [**our website**](https://lenoxbot.com).

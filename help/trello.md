@@ -1,7 +1,5 @@
 # Trello
 
-title: Trello description: Here you can find our Trello Board
-
 ## Trello
 
 This is our quick introduction to our Trello board, where you can find all reported bugs or proposals:

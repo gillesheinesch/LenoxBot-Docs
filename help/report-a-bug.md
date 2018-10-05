@@ -1,7 +1,5 @@
 # Report a bug
 
-title: Report a bug description: If you want to report a bug, here you can find how you report a bug
-
 ## Report a bug
 
 If you want to report a bug, do the following steps:

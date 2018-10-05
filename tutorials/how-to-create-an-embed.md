@@ -1,7 +1,5 @@
 # How to create an embed
 
-title: How to create an embed description: Instructions how to send an embed with the LenoxBot on a Discord Server
-
 ## How to create an embed?
 
 I'll tell you the first way to send an embed!

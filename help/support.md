@@ -1,7 +1,5 @@
 # Support
 
-title: Support description: All possibilities to receive support about LenoxBot
-
 ## Support
 
 There is more than one possibility to receive support. Here is a list of all support sources:

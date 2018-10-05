@@ -1,7 +1,5 @@
 # Make a proposal
 
-title: Make a proposal description: If you want to make a proposal, here you can find how you make a proposal
-
 ## Make a proposal
 
 If you want to make a proposal, do the following steps:

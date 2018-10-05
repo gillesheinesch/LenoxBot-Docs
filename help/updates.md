@@ -1,7 +1,5 @@
 # Updates
 
-title: Updates description: If you want to know where you can find our updates and what we added, changed or removed, here you can find it
-
 ## Find our updates
 
 If you want to know where you can find our updates and what we added, changed or removed, here you can find it:

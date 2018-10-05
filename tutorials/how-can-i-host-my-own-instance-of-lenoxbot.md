@@ -1,7 +1,5 @@
 # How can I host my own instance of LenoxBot
 
-title: How can I host my own instance LenoxBot description: If you want to know how you host your own instance LenoxBot, read this entry
-
 ## How can I host my own instance of LenoxBot?
 
 ### Windows

@@ -1,4 +1,4 @@
 # Commands
 
-title: Commands description:
+**Coming soon!**
 

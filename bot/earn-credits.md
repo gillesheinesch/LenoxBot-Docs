@@ -1,7 +1,5 @@
 # Earn credits
 
-title: Earn credits description: If you want to know how you earn credits, here you can find it
-
 ## How to earn credits?
 
 You can earn credits in different ways!

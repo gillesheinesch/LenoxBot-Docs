@@ -1,7 +1,5 @@
 # Translator
 
-title: Translator description: If you want to be a translator, here you can find how you become a translator
-
 ## What’s a translator?
 
 Translators are **volunteers** who are contributing to the [LenoxBot localization project in Crowdin](https://crowdin.com/project/lenoxbot) and who are helping to facilitate using the LenoxBot for people **speaking different languages** in this way. Therefore, they **translate** every message of the Bot into one or more of our aim languages and **vote** for translations suggested by other users to **facilitate** the work of the proofreaders. Translators are not members of the LenoxBot staff.

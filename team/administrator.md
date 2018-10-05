@@ -1,7 +1,5 @@
 # Administrator
 
-title: Administrator description: If you want to know how you become an Administrator, this entry explains you how you become an Administrator.
-
 ## What's an Administrator?
 
 Administrators are **managers** who manage the whole bot and staff team. You identify Administrators with the red role "Administrator" on our [Support Discord server](https://discordapp.com/invite/c7DUz35).

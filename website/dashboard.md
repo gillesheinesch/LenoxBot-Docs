@@ -1,7 +1,5 @@
 # Dashboard
 
-title: Dashboard of LenoxBot description: An introduction where you can find our Dashboard and what you can do on it
-
 ## An introduction about our Dashboard
 
 On our Dashboard you can do the following things:

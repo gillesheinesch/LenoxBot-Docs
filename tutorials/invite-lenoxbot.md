@@ -1,7 +1,5 @@
 # Invite LenoxBot
 
-title: Invite LenoxBot description: Instructions how to invite LenoxBot on your Discord Server
-
 ## Invite LenoxBot
 
 We now explain how you can invite the LenoxBot to your Discord Server!

@@ -1,7 +1,5 @@
 # Documentation-Moderator
 
-title: Documentation-Moderator description: If you want to know how you become a Documentation-Moderator, this entry explains you how you become a Documentation-Moderator.
-
 ## How to become a Documentation-Moderator of LenoxBot?
 
 If you want to be a Documentation-Moderator, do the following steps:

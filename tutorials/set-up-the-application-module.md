@@ -1,7 +1,5 @@
 # Set up the application module
 
-title: Set up the application module description: A good explained tutorial how to fully set up the application module on your discord server
-
 ## Set up application module
 
 Here’s how to configure the Application-System:
