@@ -1,7 +1,8 @@
-title: How to create an embed
-description: Instructions how to send an embed with the LenoxBot on a Discord Server
+# How to create an embed
 
-# How to create an embed?
+title: How to create an embed description: Instructions how to send an embed with the LenoxBot on a Discord Server
+
+## How to create an embed?
 
 I'll tell you the first way to send an embed!
 
@@ -15,3 +16,4 @@ The second way to send an embed is to use the dashboard!
 * Then you can see a list of all your servers select the server where you want LenoxBot to send an embed, if LenoxBot isn't on the server just invite him.
 * Then select "Utility" on the left side of the website.
 * At first you see "Send an embed" just choose the channel where you want LenoxBot to send an embed, after you've done that fill out all fields and click on "Submit" to send the embed.
+
