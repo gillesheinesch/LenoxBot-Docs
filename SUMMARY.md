@@ -18,7 +18,6 @@
   * [Moderator](team/moderator.md)
   * [Translator](team/translator.md)
 * [Help](help/README.md)
-  * [It's a test wow](help/its-a-test-wow.md)
   * [Support](help/support.md)
   * [Social Media](help/social-media.md)
   * [Updates](help/updates.md)
