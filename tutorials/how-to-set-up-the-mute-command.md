@@ -1,7 +1,5 @@
 # How to set-up the mute-command
 
-title: Set up the mute Command description: A tutorial, how to set up the mute command correctly
-
 ## Set up the `?mute` command
 
 In this tutorial I'll show you, how to set up the `?mute` command, that it works correctly.
