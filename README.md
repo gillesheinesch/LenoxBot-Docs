@@ -1,6 +1,6 @@
 # LenoxBot
 
- !(https://github.com/LenoxBot/LenoxBot-Docs/tree/1302f0466965455759d3d829f7fc69d41fd2c3d2/docs/lenoxbot.png)
+ ![LenoxLogo](https://github.com/LenoxBot/LenoxBot-Docs/tree/1302f0466965455759d3d829f7fc69d41fd2c3d2/docs/lenoxbot.png)
 
 #### LenoxBot Documentation
 
