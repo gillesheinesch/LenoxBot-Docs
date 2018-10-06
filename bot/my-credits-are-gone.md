@@ -1,7 +1,5 @@
 # My credits are gone
 
-## My credits are gone, what can I do?
-
 Rarely it happens that credits just disappear, so we need precise information what you have previously entered as a command to investigate the problem.
 
 That's why we ask you to create a ticket \(**?ticket**\) on the LenoxBot Discord Server with the following informations:
