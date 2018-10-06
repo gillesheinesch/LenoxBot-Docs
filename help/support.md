@@ -2,9 +2,9 @@
 
 There is more than one possibility to receive support. Here is a list of all support sources:
 
-* Support Discord Server
-* Ticket on our support Discord Server
-* Documentation
+* [Support Discord Server](support.md#support-discord-server)
+* [Ticket on our support Discord Server](support.md#create-a-ticket-on-our-support-discord-server)
+* [Documentation](support.md#read-through-our-documentation)
 
 ### Support Discord Server
 
@@ -16,9 +16,9 @@ We set up a discord server where you can discuss with users of our Bot and ask a
 
 You can create a ticket on our Support Discord Server. Our Staff will receive the ticket and answer you as fast as possible! 
 
-#### **How to create a ticket?**
+**How to create a ticket?**
 
-1. Go on our Discord Server in your Discord server list \(Invite Link: https://lenoxbot.com/discord\)
+1. Go on our Discord Server in your Discord server list \(Invite Link: [https://lenoxbot.com/discord](https://lenoxbot.com/discord)\)
 2. Search for the **\#spam** or **\#testing** Discord channel
 3. Enter the following: \`?ticket {your text}\`
 
