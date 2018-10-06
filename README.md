@@ -8,7 +8,7 @@ Our goal was and still is to provide every botuser an all-in bot so he doesn't h
 
 We released our own website including the dashboard in May and it offers you a place where you can set up almost all settings of the bot via your browser!
 
-If you are a new user of LenoxBot, I would advise you to read on 
+If you are a **new** user of LenoxBot, I would advise you to read on 
 
 {% page-ref page="getting-started.md" %}
 
