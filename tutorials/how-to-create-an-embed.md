@@ -4,7 +4,7 @@
 
 I'll tell you the first way to send an embed!
 
-* Just tipe `?embed` in a chat and write a text behind it, for example `?embed example`.
+* Just type `?embed` in a chat and write a text behind it, for example `?embed example`.
 
 The second way to send an embed is to use the dashboard!
 
