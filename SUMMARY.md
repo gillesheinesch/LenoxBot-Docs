@@ -6,7 +6,6 @@
   * [My credits are gone](bot/my-credits-are-gone.md)
   * [Earn credits](bot/earn-credits.md)
   * [Reminder of daily](bot/reminder-of-daily.md)
-  * [Test](bot/zesze.md)
 * [Help](help/README.md)
   * [Support](help/support.md)
   * [Social Media](help/social-media.md)
