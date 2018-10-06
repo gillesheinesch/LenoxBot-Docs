@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LenoxBot](README.md)
+* [Getting started](getting-started.md)
 * [Tutorials](tutorials/README.md)
   * [How to set-up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
   * [How to create a playlist](tutorials/how-to-create-a-playlist.md)
@@ -8,7 +9,6 @@
   * [How to create an embed](tutorials/how-to-create-an-embed.md)
   * [How can I host my own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
   * [Invite LenoxBot](tutorials/invite-lenoxbot.md)
-* [Getting started](getting-started.md)
 * [Team](team/README.md)
   * [Bugreporter](team/bugreporter.md)
   * [Documentation-Moderator](team/documentation-moderator.md)
