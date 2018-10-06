@@ -1,3 +1,7 @@
+---
+description: A tutorial how to set up the dailyremind of LenoxBot
+---
+
 # Reminder of daily
 
 ## Reminder of daily
