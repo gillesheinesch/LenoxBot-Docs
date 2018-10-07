@@ -11,7 +11,7 @@ If you want to know where you can find our updates and what we added, changed or
 
 ## Can I subscribe one of the ways?
 
-Can can follow the second, third and fourth way to get notified about our new updates.
+You can follow the second, third and fourth way to get notified about our new updates.
 
 * You can follow our [Blog](https://medium.com/lenoxbot) by clicking on the "Follow" button in the left corner.
 * You can also follow our [Twitter](https://twitter.com/lenoxbot) account by clicking the "Follow" button on the right.
