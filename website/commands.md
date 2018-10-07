@@ -16,7 +16,7 @@ Just type `?commands` or `?cmds` and the Name of the Modulde, of which you'd lik
 
 * `?commands Searches` **/** `?cmds Searches`
 
-##### **Generates:**
+#### **Generates:**
 
 ![?cmds Searches](https://i.imgur.com/aibmagL.png)
 
