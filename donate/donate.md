@@ -41,6 +41,6 @@ You click on the green button below to be redirected to Paypal:
 Lastly, you must log in and pay with your PayPal account details! If your payment has been successful you will be redirected to the LenoxBot site!
 
 {% hint style="success" %}
-**Thank you for every single donation! &lt;3**
+**Thank you for every single donation!** ❤
 {% endhint %}
 
