@@ -8,7 +8,7 @@
   * [Reminder of daily](bot/reminder-of-daily.md)
 * [Help](help/README.md)
   * [Support](help/support.md)
-  * [Social Media](help/social-media.md)
+  * [Social media](help/social-media.md)
   * [Updates](help/updates.md)
   * [Report a bug](help/report-a-bug.md)
   * [Trello](help/trello.md)
