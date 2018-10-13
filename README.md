@@ -12,5 +12,5 @@ If you are a **new** user of LenoxBot, I would advise you to read on
 
 {% page-ref page="getting-started.md" %}
 
-so that you will quickly become familiar with LenoxBot!
+so that you will **quickly** become familiar with LenoxBot!
 
