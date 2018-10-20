@@ -16,6 +16,7 @@
   * [Make a proposal](help/make-a-proposal.md)
   * [Trello](help/trello.md)
 * [Tutorials](tutorials/README.md)
+  * [How to set socialmedia?](tutorials/how-to-set-socialmedia.md)
   * [How to set-up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
   * [How to create a playlist](tutorials/how-to-create-a-playlist.md)
   * [Set up the application module](tutorials/set-up-the-application-module.md)
