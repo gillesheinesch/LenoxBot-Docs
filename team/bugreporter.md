@@ -14,5 +14,5 @@ We've developed a pointsystem which decides when you will become a Bugreporter.
 
 ## Report a bug
 
-If you want to make a bugreport visit this description: [Report a bug](https://docs.lenoxbot.com/General%20FAQ/Help/Report%20a%20Bug/)
+If you want to make a bugreport visit this description: [Report a bug](https://docs.lenoxbot.com/help/report-a-bug)
 
