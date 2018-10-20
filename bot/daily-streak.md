@@ -2,7 +2,7 @@
 description: How does the daily streak work?
 ---
 
-# Daily Streak
+# Daily streak
 
 {% hint style="danger" %}
 IN WORK!
