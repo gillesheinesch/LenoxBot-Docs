@@ -2,14 +2,13 @@
 
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
-
-# Bot
+* [Bot](bot/README.md)
   * [My credits are gone](bot/my-credits-are-gone.md)
   * [Earn credits](bot/earn-credits.md)
   * [Reminder of daily](bot/reminder-of-daily.md)
 * [Help](help/README.md)
   * [Support](help/support.md)
-  * [Social media](help/social-media.md)
+  * [Social Media](help/social-media.md)
   * [Updates](help/updates.md)
   * [Report a bug](help/report-a-bug.md)
   * [Trello](help/trello.md)
