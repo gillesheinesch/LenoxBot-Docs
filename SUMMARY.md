@@ -23,6 +23,8 @@
   * [How can I host my own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
   * [Invite LenoxBot](tutorials/invite-lenoxbot.md)
 * [Website](website/README.md)
+  * [Leaderboards](website/leaderboards.md)
+  * [Profile page](website/profile-page.md)
   * [Dashboard](website/dashboard.md)
   * [Commands](website/commands.md)
 * [Team](team/README.md)
