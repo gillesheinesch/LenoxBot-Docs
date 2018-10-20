@@ -2,19 +2,6 @@
 
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
-* [Bot](bot/README.md)
-  * [Badges](bot/badges.md)
-  * [Daily streak](bot/daily-streak.md)
-  * [My credits are gone](bot/my-credits-are-gone.md)
-  * [Earn credits](bot/earn-credits.md)
-  * [Reminder of daily](bot/reminder-of-daily.md)
-* [Help](help/README.md)
-  * [Support](help/support.md)
-  * [Social Media](help/social-media.md)
-  * [Updates](help/updates.md)
-  * [Report a bug](help/report-a-bug.md)
-  * [Make a proposal](help/make-a-proposal.md)
-  * [Trello](help/trello.md)
 * [Tutorials](tutorials/README.md)
   * [How to set socialmedia?](tutorials/how-to-set-socialmedia.md)
   * [How to set-up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
@@ -41,7 +28,20 @@
 
 ## Bot
 
+* [Badges](bot-2/badges.md)
+* [Daily streak](bot-2/daily-streak.md)
+* [My credits are gone](bot-2/my-credits-are-gone.md)
+* [Earn credits](bot-2/earn-credits.md)
+* [Reminder of daily](bot-2/reminder-of-daily.md)
+
 ## Help
+
+* [Support](help-1/support.md)
+* [Social Media](help-1/social-media.md)
+* [Updates](help-1/updates.md)
+* [Report a bug](help-1/report-a-bug.md)
+* [Make a proposal](help-1/make-a-proposal.md)
+* [Trello](help-1/trello.md)
 
 ## Tutorials
 
