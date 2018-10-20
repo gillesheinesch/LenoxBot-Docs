@@ -39,13 +39,13 @@
 
 ## Team
 
-* [Administrator](team-1/administrator.md)
-* [Moderator](team-1/moderator.md)
-* [Documentation-Moderator](team-1/documentation-moderator.md)
-* [Designer](team-1/designer.md)
-* [Translator](team-1/translator.md)
-* [Bugreporter](team-1/bugreporter.md)
-* [Proposalwriter](team-1/proposalwriter.md)
+* [Administrator](team/administrator.md)
+* [Moderator](team/moderator.md)
+* [Documentation-Moderator](team/documentation-moderator.md)
+* [Designer](team/designer.md)
+* [Translator](team/translator.md)
+* [Bugreporter](team/bugreporter.md)
+* [Proposalwriter](team/proposalwriter.md)
 
 ## Donate
 
