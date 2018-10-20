@@ -14,5 +14,5 @@ As soon as you have reached 10 points / 5 accepted suggestions, you become a Pro
 
 ## Make a proposal
 
-If you want to make a proposal visit this description: [Make a proposal](https://docs.lenoxbot.com/General%20FAQ/Help/Make%20a%20proposal/)
+If you want to make a proposal visit this description: [Make a proposal](https://docs.lenoxbot.com/help/make-a-proposal)
 
