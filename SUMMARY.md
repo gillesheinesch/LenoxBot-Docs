@@ -2,29 +2,6 @@
 
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
-* [Tutorials](tutorials/README.md)
-  * [How to set socialmedia?](tutorials/how-to-set-socialmedia.md)
-  * [How to set-up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
-  * [How to create a playlist](tutorials/how-to-create-a-playlist.md)
-  * [Set up the application module](tutorials/set-up-the-application-module.md)
-  * [How to create an embed](tutorials/how-to-create-an-embed.md)
-  * [How can I host my own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
-  * [Invite LenoxBot](tutorials/invite-lenoxbot.md)
-* [Website](website/README.md)
-  * [Leaderboards](website/leaderboards.md)
-  * [Profile page](website/profile-page.md)
-  * [Dashboard](website/dashboard.md)
-  * [Commands](website/commands.md)
-* [Team](team/README.md)
-  * [Administrator](team/administrator.md)
-  * [Moderator](team/moderator.md)
-  * [Documentation-Moderator](team/documentation-moderator.md)
-  * [Designer](team/designer.md)
-  * [Translator](team/translator.md)
-  * [Bugreporter](team/bugreporter.md)
-  * [Proposalwriter](team/proposalwriter.md)
-* [Donate](donate/README.md)
-  * [Donate](donate/donate.md)
 
 ## Bot
 
@@ -45,7 +22,32 @@
 
 ## Tutorials
 
+* [How to set socialmedia?](tutorials-1/how-to-set-socialmedia.md)
+* [How to set-up the mute-command](tutorials-1/how-to-set-up-the-mute-command.md)
+* [How to create a playlist](tutorials-1/how-to-create-a-playlist.md)
+* [Set up the application module](tutorials-1/set-up-the-application-module.md)
+* [How to create an embed](tutorials-1/how-to-create-an-embed.md)
+* [How can I host my own instance of LenoxBot](tutorials-1/how-can-i-host-my-own-instance-of-lenoxbot.md)
+* [Invite LenoxBot](tutorials-1/invite-lenoxbot.md)
+
 ## Website
 
+* [Leaderboards](website-1/leaderboards.md)
+* [Profile page](website-1/profile-page.md)
+* [Dashboard](website-1/dashboard.md)
+* [Commands](website-1/commands.md)
+
 ## Team
+
+* [Administrator](team-1/administrator.md)
+* [Moderator](team-1/moderator.md)
+* [Documentation-Moderator](team-1/documentation-moderator.md)
+* [Designer](team-1/designer.md)
+* [Translator](team-1/translator.md)
+* [Bugreporter](team-1/bugreporter.md)
+* [Proposalwriter](team-1/proposalwriter.md)
+
+## Donate
+
+* [Donate](donate-1/donate-1.md)
 
