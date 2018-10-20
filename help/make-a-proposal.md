@@ -21,5 +21,5 @@ After your suggestion has been accepted by three different Proposalwriters, you 
 
 ## How do I become a Proposalwriter?
 
-If you want to become Proposalwriter, please visit this description: [How to become a Proposalwriter](https://docs.lenoxbot.com/team/proposalwriter)
+{% page-ref page="../team/proposalwriter.md" %}
 
