@@ -2,7 +2,8 @@
 
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
-* [Bot](bot/README.md)
+
+# Bot
   * [My credits are gone](bot/my-credits-are-gone.md)
   * [Earn credits](bot/earn-credits.md)
   * [Reminder of daily](bot/reminder-of-daily.md)
