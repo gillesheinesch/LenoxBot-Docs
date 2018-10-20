@@ -39,3 +39,13 @@
 * [Donate](donate/README.md)
   * [Donate](donate/donate.md)
 
+## Bot
+
+## Help
+
+## Tutorials
+
+## Website
+
+## Team
+
