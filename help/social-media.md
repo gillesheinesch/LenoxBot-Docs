@@ -1,4 +1,4 @@
-# Social media
+# Social Media
 
 ## Social media
 
