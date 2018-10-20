@@ -32,10 +32,10 @@
 
 ## Website
 
-* [Leaderboards](website-1/leaderboards.md)
-* [Profile page](website-1/profile-page.md)
-* [Dashboard](website-1/dashboard.md)
-* [Commands](website-1/commands.md)
+* [Leaderboards](website/leaderboards.md)
+* [Profile page](website/profile-page.md)
+* [Dashboard](website/dashboard.md)
+* [Commands](website/commands.md)
 
 ## Team
 
