@@ -3,6 +3,7 @@
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
 * [Bot](bot/README.md)
+  * [Badges](bot/badges.md)
   * [Daily Streak](bot/daily-streak.md)
   * [My credits are gone](bot/my-credits-are-gone.md)
   * [Earn credits](bot/earn-credits.md)
