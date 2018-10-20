@@ -49,5 +49,5 @@
 
 ## Donate
 
-* [Donate](donate-1/donate-1.md)
+* [Donate](donate/donate-1.md)
 
