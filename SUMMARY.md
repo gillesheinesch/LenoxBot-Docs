@@ -13,12 +13,12 @@
 
 ## Help
 
-* [Support](help-1/support.md)
-* [Social Media](help-1/social-media.md)
-* [Updates](help-1/updates.md)
-* [Report a bug](help-1/report-a-bug.md)
-* [Make a proposal](help-1/make-a-proposal.md)
-* [Trello](help-1/trello.md)
+* [Support](help/support.md)
+* [Social Media](help/social-media.md)
+* [Updates](help/updates.md)
+* [Report a bug](help/report-a-bug.md)
+* [Make a proposal](help/make-a-proposal.md)
+* [Trello](help/trello.md)
 
 ## Tutorials
 
