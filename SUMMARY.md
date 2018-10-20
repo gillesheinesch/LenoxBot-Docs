@@ -5,11 +5,11 @@
 
 ## Bot
 
-* [Badges](bot-2/badges.md)
-* [Daily streak](bot-2/daily-streak.md)
-* [My credits are gone](bot-2/my-credits-are-gone.md)
-* [Earn credits](bot-2/earn-credits.md)
-* [Reminder of daily](bot-2/reminder-of-daily.md)
+* [Badges](bot/badges.md)
+* [Daily streak](bot/daily-streak.md)
+* [My credits are gone](bot/my-credits-are-gone.md)
+* [Earn credits](bot/earn-credits.md)
+* [Reminder of daily](bot/reminder-of-daily.md)
 
 ## Help
 
