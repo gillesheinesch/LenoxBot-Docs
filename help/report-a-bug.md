@@ -20,5 +20,5 @@ If you want to report a bug, do the following steps:
 
 ## How do I become a Bugreporter?
 
-If you want to become a Bugreporter, please visit this description: [How to become a Bugreporter](https://docs.lenoxbot.com/team/bugreporter)
+{% page-ref page="../team/bugreporter.md" %}
 
