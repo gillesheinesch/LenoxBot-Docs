@@ -1,9 +1,4 @@
 # How to create a playlist
-
-{% hint style="danger" %}
-**Coming soon!**
-{% endhint %}
-
 Here's hot to create a playlist and how to add songs:
 
 First, we want to explain you how to create a playlist. Just enter **“?commands music”**
