@@ -1,7 +1,5 @@
 # Make a proposal
 
-## Make a proposal
-
 If you want to make a proposal, do the following steps:
 
 * Join the LenoxBot Discord Server: [Join](https://lenoxbot.com/discord/)

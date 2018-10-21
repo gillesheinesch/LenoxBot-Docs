@@ -1,7 +1,5 @@
 # Report a bug
 
-## Report a bug
-
 If you want to report a bug, do the following steps:
 
 * Join the LenoxBot Discord Server: [Join](https://lenoxbot.com/discord/)
