@@ -10,6 +10,8 @@
 * [My credits are gone](bot/my-credits-are-gone.md)
 * [Earn credits](bot/earn-credits.md)
 * [Reminder of daily](bot/reminder-of-daily.md)
+* [Buy/Sell items](bot/buy-sell-items.md)
+* [Upgrade your inventoryslots](bot/upgrade-your-inventoryslots.md)
 
 ## Help
 
