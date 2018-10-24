@@ -1,14 +1,10 @@
----
-description: How can I buy and sell items from my inventory?
----
-
 # Buy/Sell items
 
 ## Buy/Sell items
 
 If you want to buy items follow the steps!
 
-* Tipe `?shop` in the chat and decide the item and the amount you want to buy.
+* Type `?shop` in the chat and decide the item and the amount you want to buy.
 
 ![?shop Command](../.gitbook/assets/screenshot_1%20%281%29.png)
 
@@ -16,7 +12,7 @@ If you want to buy items follow the steps!
 
 ![The second and third shop page.](../.gitbook/assets/unbenannt.png)
 
-* If you decided an item tipe in  `´?shop buy {amount} {item}`, for example `?shop buy 1 :soccer:`, to buy the item\(s\).
+* If you decided an item type in  `´?shop buy {amount} {item}`, for example `?shop buy 1 :soccer:`, to buy the item\(s\).
 
 ![?shop buy {amount} {item}](../.gitbook/assets/screenshot_4.png)
 
@@ -24,15 +20,21 @@ If you want to buy items follow the steps!
 
 If you want to sell items follow the next steps!
 
-* Tipe `?inventory` to see all items you own and you can sell.
+* Type `?inventory` to see all items you own and you can sell.
 
 ![?inventory](../.gitbook/assets/screenshot_6.png)
 
-* After you've checked all your items tipe `?shop sell {amount} {item}` in the chat, for example `?shop sell 1 :soccer:`, to sell the item\(s\).
+* After you've checked all your items type `?shop sell {amount} {item}` in the chat, for example `?shop sell 1 :soccer:`, to sell the item\(s\).
 
 ![Selled 1 and 2 items.](../.gitbook/assets/unbenannt2.png)
 
 
 
-### Buying or selling any LenoxBot-Item is totaly free, the only currency we use is the own currency from the LenoxBot, if you want to know how to earn credits check this documentation: [Earn credits](https://docs.lenoxbot.com/bot/earn-credits)
+{% hint style="info" %}
+Buying or selling any LenoxBot-Item is totaly free, the only currency we use is the own currency from the LenoxBot, if you want to know how to earn credits check this documentation:
+{% endhint %}
+
+{% page-ref page="earn-credits.md" %}
+
+
 
