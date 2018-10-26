@@ -1,21 +1,17 @@
----
-description: On this page we will explain you how you can setup you socialmedia account
----
-
 # How to set socialmedia?
 
 
 
-So you can add/edit a socialmedia account
+So you can edit your socialmedia:
 
-* Type **"?setsocialmedia** _**\[youtube, twitch, instagram, twitter\] {YOUR NAME} "**_
-* Then you successfully  edit or add your socialmedia account
+* Type **"?setsocialmedia edit** _**\[youtube, twitch, instagram, twitter\] {YOUR NAME} "**_
+* Then you successfully  edit your socialmedia.
 
 ![](../.gitbook/assets/screenshot_1.png)
 
 
 
-If you want to delete a socialmedia account just type
+If you want to delete a socialmedia just type
 
 * _?setsocialmedia delete_ \[_**youtube, twitch, instagram** or **twitter\]**_
 
@@ -23,7 +19,7 @@ If you want to delete a socialmedia account just type
 
 _\*\*\*\*_
 
-If you want to see all your socialmedia accounts you just type
+If you want to see all your socialmedia just type
 
 * ?_setsocialmedia list_
 
