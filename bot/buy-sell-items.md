@@ -31,7 +31,7 @@ If you want to sell items follow the next steps!
 
 
 {% hint style="info" %}
-Buying or selling any LenoxBot-Item is totaly free, the only currency we use is the own currency from the LenoxBot, if you want to know how to earn credits check this documentation:
+Buying or selling any LenoxBot-Item is totaly free, the only currency we use is the own currency from the LenoxBot, if you want to know how to earn credits check the following documentation entry:
 {% endhint %}
 
 {% page-ref page="earn-credits.md" %}
