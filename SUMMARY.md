@@ -29,7 +29,7 @@
 * [How to create a playlist](tutorials/how-to-create-a-playlist.md)
 * [Set up the application module](tutorials/set-up-the-application-module.md)
 * [How to create an embed](tutorials/how-to-create-an-embed.md)
-* [How can I host my own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
+* [Own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
 * [Invite LenoxBot](tutorials/invite-lenoxbot.md)
 
 ## Website

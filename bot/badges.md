@@ -2,6 +2,25 @@
 
 ## Where can I find the badges?
 
+The first way is the `?userinfo` command, this is the easiest way. You just type `?userinfo {@user}` or `?ui {@user}` to see the profile of a user, on the profile you can also see the badges, the problem with this command is: When a user have more than 5 badges you can just see 5 of them, so if a user have more than 5 badges use the second way.
+
+## Badges-List
+
+Here is a list of all badges:
+
+*  🅰 - Administator
+*  ⚒ - Developer
+*  👮 - Moderator
+*  👁 - Documentation-Proofreader
+*  📝 - Documentation-Moderator
+*  🗣 - Translation-Leader
+*  👁 - Translation-Proofreader
+*  ❤ - Donator
+*  🈚 - Translator
+*  🎁 - Birthday 2018
+*  🅱 - Bugreporter
+*  🅿 - Proposalwriter
+
 {% tabs %}
 {% tab title="First way" %}
 The first way is the `?userinfo` command, this is the easiest way. You just type `?userinfo {@user}` or `?ui {@user}` to see the profile of an user, on the profile you can also see the badges, the problem with this command is: When a user have more than 5 badges you can just see 5 of them, so if a user have more than 5 badges use the second way.
@@ -22,21 +41,4 @@ Here we can see the "Top 5" badges of a user, if you want to know what emoji is 
 * Then type in your browser "[https://lenoxbot.com/profile/](https://lenoxbot.com/profile/286149220925308928){the copied user-id}" to open the profile of another user.
 {% endtab %}
 {% endtabs %}
-
-## Badges-List
-
-Here is a list of all badges:
-
-*  🅰 - Administator
-*  ⚒ - Developer
-*  👮 - Moderator
-*  👁 - Documentation-Proofreader
-*  📝 - Documentation-Moderator
-*  🗣 - Translation-Leader
-*  👁 - Translation-Proofreader
-*  ❤ - Donator
-*  🈚 - Translator
-*  🎁 - Birthday 2018
-*  🅱 - Bugreporter
-*  🅿 - Proposalwriter
 
