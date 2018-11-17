@@ -24,13 +24,13 @@ Type `?inventory` to see all items you own and you can sell.
 
 After you've checked all your items type `?shop sell {amount} {item}` in the chat, for example `?shop sell 1 :soccer:`, to sell the item\(s\).
 
-![Selled 1 and 2 items.](../.gitbook/assets/unbenannt2.png)
-
-
+![Sold 1 and 2 items.](../.gitbook/assets/unbenannt2.png)
 
 {% hint style="info" %}
-Buying or selling any LenoxBot-Item is totaly free, the only currency we use is the own currency from the LenoxBot, if you want to know how to earn credits check the following documentation entry:
+Buying or selling any LenoxBot-Item is totaly **free**, the only currency we use is the own currency from the LenoxBot!
 {% endhint %}
+
+If you want to know how to earn credits check the following documentation entry:
 
 {% page-ref page="earn-credits.md" %}
 
