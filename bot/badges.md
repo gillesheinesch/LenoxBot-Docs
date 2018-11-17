@@ -27,7 +27,7 @@ The first way is the `?userinfo` command, this is the easiest way. You just type
 
 ![?userinfo Command](../.gitbook/assets/screenshot_29.png)
 
-Here we can see the "Top 5" badges of a user, if you want to know what emoji is standing for what badge scroll down.
+Here we can see the "**Top 5**" badges of a user, if you want to know what emoji is standing for what badge scroll down.
 {% endtab %}
 
 {% tab title="Second way" %}
