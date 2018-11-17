@@ -1,7 +1,5 @@
 # How to set socialmedia?
 
-
-
 So you can edit your socialmedia:
 
 * Type **"?setsocialmedia edit** _**\[youtube, twitch, instagram, twitter\] {YOUR NAME} "**_

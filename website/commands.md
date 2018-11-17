@@ -4,6 +4,10 @@ Hey there, here we'd like to show you the ways, how to see our commands.
 
 ### There are 2 different ways, to see all of our commands or all the commands of a module.
 
+{% hint style="warning" %}
+Attention! We use our default prefix. Please note, that you can set your own prefix with `?prefix <prefix>`
+{% endhint %}
+
 First you can see it on our [**website**](https://lenoxbot.com/commands). There is an overview of each module and you can also search a command.
 
 ![Commands on website](https://i.imgur.com/CSMqSdC.png)
