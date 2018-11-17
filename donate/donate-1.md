@@ -4,9 +4,9 @@
 
 Click on the [**Donate**](https://lenoxbot.com/donate) button in the navigation bar on top of [**our website**](https://lenoxbot.com).
 
-![DonateButton](https://i.imgur.com/5gAB2bG.png)
+![Donate Button](../.gitbook/assets/lmzwrtq.png)
 
-Now you have to decide how much you want to donate to LenoxBot. You also have the opportunity to specify an amount determined by you!
+Now you need to decide how much you want to donate to LenoxBot. You also have the opportunity to specify an amount determined by you!
 
 ![Amound to spend](https://i.imgur.com/jUWyccf.png)
 
