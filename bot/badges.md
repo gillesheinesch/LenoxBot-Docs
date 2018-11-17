@@ -8,18 +8,18 @@ The first way is the `?userinfo` command, this is the easiest way. You just type
 
 Here is a list of all badges:
 
-*  🅰 - Administator
-*  ⚒ - Developer
-*  👮 - Moderator
-*  👁 - Documentation-Proofreader
-*  📝 - Documentation-Moderator
-*  🗣 - Translation-Leader
-*  👁 - Translation-Proofreader
-*  ❤ - Donator
-*  🈚 - Translator
-*  🎁 - Birthday 2018
-*  🅱 - Bugreporter
-*  🅿 - Proposalwriter
+*  `🅰` **- Administator**
+*  `⚒` **- Developer**
+*  `👮` **- Moderator**
+*  `👁` **- Documentation-Proofreader**
+*  `📝` **- Documentation-Moderator**
+*  `🗣` **- Translation-Leader**
+*  `👁` **- Translation-Proofreader**
+*  `❤` **- Donator**
+*  `🈚` **- Translator**
+*  `🎁` **- Birthday 2018**
+*  `🅱` **- Bugreporter**
+*  `🅿` **- Proposalwriter**
 
 {% tabs %}
 {% tab title="First way" %}
