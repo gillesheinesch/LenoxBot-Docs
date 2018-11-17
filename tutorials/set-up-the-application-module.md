@@ -1,7 +1,5 @@
 # Set up the application module
 
-## Set up application module
-
 Here’s how to configure the Application-System:
 
 First, we want to explain you all the commands in detail. Just enter **“?cmds application”**
