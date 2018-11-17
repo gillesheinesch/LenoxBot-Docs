@@ -2,11 +2,17 @@
 
 ## 1.7.1 - 2018-11-12
 
-### Fixed
+{% tabs %}
+{% tab title="Changed" %}
 
-* A daily bug
+{% endtab %}
 
+{% tab title="Added" %}
 
+{% endtab %}
 
+{% tab title="Fixed" %}
 
+{% endtab %}
+{% endtabs %}
 
