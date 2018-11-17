@@ -25,11 +25,11 @@
 
 ## Tutorials
 
-* [How to set socialmedia?](tutorials/how-to-set-socialmedia.md)
-* [How to set up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
-* [How to create a playlist](tutorials/how-to-create-a-playlist.md)
+* [Set socialmedia](tutorials/how-to-set-socialmedia.md)
+* [Set up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
+* [Create a playlist](tutorials/how-to-create-a-playlist.md)
 * [Set up the application module](tutorials/set-up-the-application-module.md)
-* [How to create an embed](tutorials/how-to-create-an-embed.md)
+* [Create an embed](tutorials/how-to-create-an-embed.md)
 * [Own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
 * [Invite LenoxBot](tutorials/invite-lenoxbot.md)
 

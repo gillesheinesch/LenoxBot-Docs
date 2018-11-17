@@ -1,4 +1,4 @@
-# How to set socialmedia?
+# Set socialmedia
 
 So you can edit your socialmedia:
 

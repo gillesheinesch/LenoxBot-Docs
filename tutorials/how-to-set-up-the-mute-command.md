@@ -1,4 +1,4 @@
-# How to set up the mute-command
+# Set up the mute-command
 
 ## Set up the `?mute` command
 

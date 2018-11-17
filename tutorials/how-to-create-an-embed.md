@@ -1,6 +1,4 @@
-# How to create an embed
-
-## How to create an embed?
+# Create an embed
 
 I'll tell you the first way to send an embed!
 

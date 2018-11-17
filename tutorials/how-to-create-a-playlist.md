@@ -1,4 +1,4 @@
-# How to create a playlist
+# Create a playlist
 
 {% hint style="danger" %}
 **Coming soon!**
