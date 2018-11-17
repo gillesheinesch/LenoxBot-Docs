@@ -38,6 +38,7 @@
 * [Profile page](website/profile-page.md)
 * [Dashboard](website/dashboard.md)
 * [Commands](website/commands.md)
+* [Modules](website/modules.md)
 
 ## Team
 
