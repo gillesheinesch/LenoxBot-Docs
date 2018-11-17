@@ -1,7 +1,5 @@
 # Modules
 
-\*\*\*\*
-
 Hey there, here we'd like to show you the ways, how to see our modules. There are two different ways to see all our modules.
 
 {% hint style="warning" %}
