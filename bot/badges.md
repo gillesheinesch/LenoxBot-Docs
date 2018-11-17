@@ -2,7 +2,7 @@
 
 ## Where can I find the badges?
 
-The first way is the `?userinfo` command, this is the easiest way. You just type `?userinfo {@user}` or `´?ui {@user}` to see the profile of a user, on the profile you can also see the badges, the problem with this command is: When a user have more than 5 badges you can just see 5 of them, so if a user have more than 5 badges use the second way.
+The first way is the `?userinfo` command, this is the easiest way. You just type `?userinfo {@user}` or `?ui {@user}` to see the profile of a user, on the profile you can also see the badges, the problem with this command is: When a user have more than 5 badges you can just see 5 of them, so if a user have more than 5 badges use the second way.
 
 ![?userinfo Command](../.gitbook/assets/screenshot_29.png)
 
