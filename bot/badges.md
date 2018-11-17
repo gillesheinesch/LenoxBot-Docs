@@ -1,6 +1,6 @@
 # Badges
 
-## Badges-List
+## How I can see my badges?
 
 {% tabs %}
 {% tab title="First way" %}
@@ -22,6 +22,8 @@ Here we can see the "**Top 5**" badges of a user, if you want to know what emoji
 * Then type in your browser "[https://lenoxbot.com/profile/](https://lenoxbot.com/profile/286149220925308928)**{the copied user-id}**" to open the profile of another user.
 {% endtab %}
 {% endtabs %}
+
+## Which badges exists?
 
 Here is a list of all badges:
 
