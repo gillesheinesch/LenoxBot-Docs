@@ -10,7 +10,7 @@ If you want you can also react with `:arrow_forward:` \( ▶\) to see more items
 
 ![The second and third shop page.](../.gitbook/assets/unbenannt.png)
 
-If you decided an item type in  `´?shop buy {amount} {item}`, for example `?shop buy 1 :soccer:`, to buy the item\(s\).
+If you decided an item type in  `?shop buy {amount} {item}`, for example `?shop buy 1 :soccer:`, to buy the item\(s\).
 
 ![?shop buy {amount} {item}](../.gitbook/assets/screenshot_4.png)
 
