@@ -43,8 +43,6 @@
 
 ## Team
 
-* [Administrator](team/administrator.md)
-* [Designer](team/designer.md)
 * [Translator](team/translator.md)
 * [Bugreporter](team/bugreporter.md)
 * [Proposalwriter](team/proposalwriter.md)
