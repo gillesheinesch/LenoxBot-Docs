@@ -44,8 +44,6 @@
 ## Team
 
 * [Administrator](team/administrator.md)
-* [Moderator](team/moderator.md)
-* [Documentation-Moderator](team/documentation-moderator.md)
 * [Designer](team/designer.md)
 * [Translator](team/translator.md)
 * [Bugreporter](team/bugreporter.md)
