@@ -27,11 +27,7 @@ Developers develope the **bot** and our **website/dashboard**. If the Proposalwr
 
 ##  What's a Moderator?
 
-Moderators **moderate** the whole Discord server. They **warn**/**mute**/**kick**/**ban** the users. If an user needs help, they'll **support** them on our Support Discord server. If you want to be a Moderator, you can apply here: [Application form as Moderator](https://docs.google.com/forms/d/e/1FAIpQLSc48Vf2x0jQD6aZ2UINmPoGiWQcqlOzf83uW8SIw99GJa6rSA/closedform)
+Moderators **moderate** the whole Discord server. They **warn**/**mute**/**kick**/**ban** the users. If an user needs help, they'll **support** them on our Support Discord server. Moderators also write new documentation entries. Probably this entry too? If you want to be a Moderator, you can apply here: [Application form as Moderator](https://docs.google.com/forms/d/e/1FAIpQLSc48Vf2x0jQD6aZ2UINmPoGiWQcqlOzf83uW8SIw99GJa6rSA/closedform)
 
 ![Moderator color](../.gitbook/assets/screenshot_1%20%282%29.png)
-
-##  What's a Documentation-Moderator?
-
-Documentation-Moderators write new documentation entries. Probably this entry too? If you want to be a Documentation-Moderator, you can apply here: [Application form as Documentation-Moderator](https://docs.google.com/forms/d/e/1FAIpQLSe-KD6k0MVrWzNk5p6H8p6o1g0Z6dEu0p0t8TD2TsGx5h6I7Q/closedform)
 
