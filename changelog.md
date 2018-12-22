@@ -30,6 +30,7 @@
 * You couldn't get the stats of a fortnite account with a space in the name
 * "Harvest fields" was undefined in the ?job command
 * The months were written in german on the website. We changed it to english
+* Ticket system
 {% endtab %}
 {% endtabs %}
 
