@@ -27,7 +27,7 @@ Here we can see the "**Top 5**" badges of a user, if you want to know what emoji
 
 Here is a list of all badges:
 
-*  `🅰` **- Administator**
+* `🅰` **- Administator**
 *  `⚒` **- Developer**
 *  `👮` **- Moderator**
 *  `👁` **- Documentation-Proofreader**
@@ -39,4 +39,8 @@ Here is a list of all badges:
 *  `🎁` **- Birthday 2018**
 *  `🅱` **- Bugreporter**
 *  `🅿` **- Proposalwriter**
+*  `📤` **- First purchased item / First sold item**
+*  `📈` **- 1000xp**
+
+\*\*\*\*
 
