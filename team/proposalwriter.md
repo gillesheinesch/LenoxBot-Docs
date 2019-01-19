@@ -14,7 +14,5 @@ As soon as you have reached 10 points / 5 accepted suggestions, you become a Pro
 
 ## Make a proposal
 
-{% page-ref page="../help/make-a-proposal.md" %}
-
 
 

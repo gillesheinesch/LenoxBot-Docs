@@ -19,9 +19,8 @@
 * [Support](help/support.md)
 * [Social Media](help/social-media.md)
 * [Updates](help/updates.md)
-* [Report a bug](help/report-a-bug.md)
-* [Make a proposal](help/make-a-proposal.md)
 * [Trello](help/trello.md)
+* [Create a bugreport/suggestion](help/create-a-bugreport-suggestion.md)
 
 ## Tutorials
 

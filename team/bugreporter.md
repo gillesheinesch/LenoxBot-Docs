@@ -14,5 +14,3 @@ We've developed a pointsystem which decides when you will become a Bugreporter.
 
 ## Report a bug
 
-{% page-ref page="../help/report-a-bug.md" %}
-
