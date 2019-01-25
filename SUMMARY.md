@@ -44,8 +44,6 @@
 
 * [Staff Members](team/staff-members.md)
 * [Translator](team/translator.md)
-* [Bugreporter](team/bugreporter.md)
-* [Proposalwriter](team/proposalwriter.md)
 
 ## Donate
 
