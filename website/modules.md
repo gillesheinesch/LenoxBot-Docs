@@ -24,7 +24,7 @@ Just type `?modules`and you'll see all our modules.
 {% endtab %}
 {% endtabs %}
 
-### **Your Reaction**
+### **Your Reaction will be:**
 
 ![](https://media.giphy.com/media/vQqeT3AYg8S5O/giphy.gif)
 

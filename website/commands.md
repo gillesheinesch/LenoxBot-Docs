@@ -2,8 +2,8 @@
 
 Hey there, here we'd like to show you the ways, how to see our commands. There are two different ways to see all our commands.
 
-{% hint style="warning" %}
-Attention! We use our default prefix. Please note, that you can set your own prefix with `?prefix <prefix>`
+{% hint style="info" %}
+We use our default prefix, which is `?`. Please note, that you can set your **own prefix** with `?prefix <new desired prefix>`
 {% endhint %}
 
 {% tabs %}
