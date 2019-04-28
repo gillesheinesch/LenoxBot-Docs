@@ -25,7 +25,7 @@ Developers develope the **bot** and our **website/dashboard**. If the Proposalwr
 
 ![Developer color](../.gitbook/assets/jayac11.png)
 
-##  What's a Moderator?
+## What's a Moderator?
 
 Moderators **moderate** the whole Discord server and bot. They **warn**/**mute**/**kick**/**ban** the users. If an user needs help, they'll **support** them on our Support Discord server. Moderators also write new documentation entries. Probably this entry too? If you want to be a Moderator, you can apply here: [Application form as Moderator](https://docs.google.com/forms/d/e/1FAIpQLSc48Vf2x0jQD6aZ2UINmPoGiWQcqlOzf83uW8SIw99GJa6rSA/closedform)
 

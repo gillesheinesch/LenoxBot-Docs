@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.8.1 - 2019-04-28
+
+{% tabs %}
+{% tab title="Fixed" %}
+* Many bugfixes
+* Dashboard has been fixed
+{% endtab %}
+{% endtabs %}
+
 ## 1.7.2 - 2018-12-22
 
 {% tabs %}
