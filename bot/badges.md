@@ -1,5 +1,9 @@
 # Badges
 
+{% hint style="warning" %}
+We are currently doing a recode of the badges system!
+{% endhint %}
+
 ## How I can see my badges?
 
 {% tabs %}
