@@ -4,7 +4,7 @@ Because we have an [open source project on GitHub,](https://github.com/lenoxbot/
 
 {% tabs %}
 {% tab title="Windows" %}
-You must have already installed **NPM**, **Git**, **NodeJS** and **FFmpeg**! There are many tutorials online on how to install all these packages for your operating system.
+You must have already installed **NPM**, **Git**, **NodeJS, MongoDB Server** and **FFmpeg**! There are many tutorials online on how to install all these packages for your operating system.
 
 1. Clone this repository \(Branch: **Master**\)
    * Execute `git clone https://github.com/LenoxBot/LenoxBot.git --branch master`
@@ -24,7 +24,7 @@ Now you can create an invite link for your bot [**here**](https://discordapi.com
 {% endtab %}
 
 {% tab title="Linux/Debian" %}
-You must have already installed **NPM**, **Git NodeJS** and **FFmpeg**! There are many tutorials online on how to install all these packages for your operating system.
+You must have already installed **NPM**, **Git NodeJS, MongoDB Server** and **FFmpeg**! There are many tutorials online on how to install all these packages for your operating system.
 
 1. Clone this repository \(Branch: **Master**\)
    * Execute `$ git clone https://github.com/LenoxBot/LenoxBot.git --branch master`
