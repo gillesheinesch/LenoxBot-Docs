@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.9.0 - 2019-05-13
+
+{% tabs %}
+{% tab title="Changed" %}
+* Command changed: **?calculator --&gt; ?calculate/?calc**
+* Instant forwarding to discord login page for pages where a login is required
+{% endtab %}
+
+{% tab title="Added" %}
+* Guildupdate log is now in the dashboard
+* The name of the Discord server is now written in the browser tab if you are currently in the dashboard of a Discord server
+* New command **?punishments** : Shows you the punishments of a user \(bans, mutes, kicks, warns, ...\)
+* The socialmedia of every staffmember are now on the team page of lenoxbot.com
+{% endtab %}
+
+{% tab title="Fixed" %}
+* NSFW commands work again
+* Temporary ban didn't work with an UserID
+{% endtab %}
+{% endtabs %}
+
 ## 1.8.1 - 2019-04-28
 
 {% tabs %}
