@@ -19,7 +19,6 @@
 * [Support](help/support.md)
 * [Social Media](help/social-media.md)
 * [Updates](help/updates.md)
-* [Trello](help/trello.md)
 * [Create a bugreport/suggestion](help/create-a-bugreport-suggestion.md)
 
 ## Tutorials
@@ -35,7 +34,6 @@
 ## Website
 
 * [Leaderboards](website/leaderboards.md)
-* [Profile page](website/profile-page.md)
 * [Dashboard](website/dashboard.md)
 * [Commands](website/commands.md)
 * [Modules](website/modules.md)

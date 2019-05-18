@@ -8,8 +8,6 @@ You can also click on the names of each user to see that profil page.
   
 More informations you will get here:
 
-{% page-ref page="profile-page.md" %}
-
   
 **Server leaderboards:**  
 On this leaderboard you can change under many discord server which used LenoxBot
