@@ -43,8 +43,8 @@ Here is a list of all badges:
 *  `🎁` **- Birthday 2018**
 *  `🅱` **- Bugreporter**
 *  `🅿` **- Proposalwriter**
-*  `📤` **- First purchased item / First sold item**
-*  `📈` **- 1000xp**
+*  `📤` **- First purchased item** / **First sold item**
+*  `📈` **- 1000xp** / **10000xp**
 
 \*\*\*\*
 
