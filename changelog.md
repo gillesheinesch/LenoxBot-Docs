@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.11.0 - 2019-06-01
+
+{% tabs %}
+{% tab title="Added" %}
+* Website is now available in more languages
+{% endtab %}
+{% endtabs %}
+
 ## 1.9.0 - 2019-05-13
 
 {% tabs %}
