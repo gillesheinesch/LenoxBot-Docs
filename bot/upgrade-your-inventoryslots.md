@@ -1,6 +1,6 @@
 # Upgrade your inventoryslots
 
-      Your Inventory is full and you get always this error?
+Your Inventory is full and you get always this error?
 
 ![](../.gitbook/assets/inventory_upgrade-2.png)
 
