@@ -7,11 +7,8 @@ The first command is  `?playlist new <YourPlaylistName> to create a playlist.` T
 
 ![Here you musst choose a number of the song selection](../.gitbook/assets/playlist_1.png)
 
-  
-``  
 If you typed finish but wanted to add more songs you have another way. With the  
 `?playlist addsong <YourPlaylistName>` and the exact song title.  
-  
   
 **You added the wrong song?** 
 
