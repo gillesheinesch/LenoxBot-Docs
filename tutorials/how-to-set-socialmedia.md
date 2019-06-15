@@ -2,22 +2,22 @@
 
 So you can edit your socialmedia:
 
-* Type **"?setsocialmedia edit** _**\[youtube, twitch, instagram, twitter\] {YOUR NAME} "**_
+* Type **"?socialmedia edit** _**\[Reddit, GitHub, Instagram, Pinterest, Twitter, YouTube, Facebook, Twitch\] {Name}"**_
 * Then you successfully  edit your socialmedia.
 
-![](../.gitbook/assets/screenshot_1.png)
+![](../.gitbook/assets/lenox.png)
 
 If you want to delete a socialmedia just type
 
-* _?setsocialmedia delete_ \[_**youtube, twitch, instagram** or **twitter\]**_
+* _?socialmedia delete_ \[_**youtube, twitch, instagram** or **twitter\]**_
 
-![](../.gitbook/assets/screenshot_2.png)
+![](../.gitbook/assets/lenox2.png)
 
 If you want to see all your socialmedia just type
 
-* ?_setsocialmedia list_
+* ?_socialmedia list_
 
-![](../.gitbook/assets/screenshot_3.png)
+![](../.gitbook/assets/lenox3.png)
 
   
 _****_
