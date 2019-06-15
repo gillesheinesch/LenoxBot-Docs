@@ -3,10 +3,6 @@
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
 * [Changelog](changelog.md)
-* [Test](test.md)
-* [Hello I'm cool](hello-im-cool.md)
-* [LOL](lol.md)
-* [Make America great again](make-america-great-again.md)
 
 ## Bot
 

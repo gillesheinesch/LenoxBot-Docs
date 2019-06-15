@@ -1,4 +1,0 @@
-# LOL
-
-Geil xD
-
