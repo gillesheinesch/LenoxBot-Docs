@@ -3,6 +3,7 @@
 * [LenoxBot](README.md)
 * [Getting started](getting-started.md)
 * [Changelog](changelog.md)
+* [Test](test.md)
 
 ## Bot
 
