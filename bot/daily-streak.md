@@ -12,5 +12,5 @@ But if you do this the next day \(in 24 hours\) you will have a streak of _two_ 
 
 ![](../.gitbook/assets/daily-streak_2-1.png)
 
-For everyone who has a userkey gets the double amount of credits. You can get a userkey by [donating for LenoxBot](https://lenoxbot.com/donate).
+For everyone who has a userkey gets the **double amount of credits**. You can get a userkey by [donating for LenoxBot](https://lenoxbot.com/donate).
 
