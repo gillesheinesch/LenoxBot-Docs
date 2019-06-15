@@ -5,6 +5,7 @@
 * [Changelog](changelog.md)
 * [Test](test.md)
 * [Hello I'm cool](hello-im-cool.md)
+* [LOL](lol.md)
 
 ## Bot
 
