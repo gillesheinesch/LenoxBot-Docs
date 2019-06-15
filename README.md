@@ -1,3 +1,7 @@
+---
+description: Introduction of LenoxBot
+---
+
 # LenoxBot
 
 **Welcome on the Documentation of LenoxBot!**

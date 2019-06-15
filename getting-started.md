@@ -1,3 +1,7 @@
+---
+description: A better overview of the most important articles of LenoxBot Documentation
+---
+
 # Getting started
 
 ## Commands
