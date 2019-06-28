@@ -1,20 +1,19 @@
 ---
-description: Introduction of LenoxBot
+descripción: Introducción de LenoxBot
 ---
 
 # LenoxBot
 
-**Welcome on the Documentation of LenoxBot!**
+**¡Bienvenido a la documentación de LenoxBot!**
 
-LenoxBot was created on **5th September 2017**. Since then we have released over **2500** updates and spent over **1000** hours making the bot more user-friendly than any other bot!
+¡LenoxBot fue creado el **5 de Septiembre del 2017**. Desde entonces hemos realizado más de **2500** actualizaciones y hemos gastado más de  **1000** horas haciendo el bot más fácil de usar que cualquier otro bot!
 
-Our goal was and still is, to provide every botuser an all-in bot so he doesn't have to invite 10 other bots for all the features that he wants to have on his discord server.
+Nuestra meta era y sigue siendo, proveer a cada dueño un bot todo-en-uno entonces así no debe de invitar a otros 10 bots para todas las características que desea tener en su servidor de discord.
 
-We released our own [**website** ](https://lenoxbot.com)including the dashboard in **May 2018** and it offers you a place where you can set up almost all settings of the bot via your browser!
+Hemos realizado nuestra propia [**página web** ](https://lenoxbot.com)incluyendo un panel de administración en **Mayo de 2018** ¡Y le ofrece un lugar donde puede configurar casi todos los ajustes del bot desde su navegador!
 
-If you are a **new** user of LenoxBot, I would advise you to read on 
+Si eres un **nuevo** usuario de LenoxBot, te aconsejamos que continúes leyendo en 
 
 {% page-ref page="getting-started.md" %}
 
-so that you will **quickly** become familiar with LenoxBot!
-
+¡Para que te familiarices **rápidamente** con LenoxBot!
