@@ -1,36 +1,36 @@
 ---
-description: A better overview of the most important articles of LenoxBot Documentation
+descripción: Un resumen de los artículos más importantes de la Documentación de LenoxBot.
 ---
 
-# Getting started
+# Iniciando
 
-## Commands
+## Comandos
 
-We've written a documentation entry in which one you can see how to use commands and how to get information about a specific command: 
+Hemos escrito un artículo de documentación en donde puede ver cómo usar un comando y cómo obtener información sobre un comando específico: 
 
 {% page-ref page="website/commands.md" %}
 
-## Modules
+## Módulos
 
-We have many different modules that offer your discord server a big list of a new features. Every module has its own meaning
+Tenemos muchos módulos diferentes que ofrecen a su servidor de discord una gran lista de nuevas características. Cada módulo tiene su propio significado.
 
 {% page-ref page="website/modules.md" %}
 
-## www.lenoxbot.com \(Website & Dashboard\)
+## www.lenoxbot.com \(Página Web & Panel de Administración\)
 
-We own a website that offers you a complete dashboard with many features. Read more:
+Nuestra página web le ofrece un completo panel de administración con muchas características. Leer más:
 
 {% page-ref page="website/dashboard.md" %}
 
-## Support
+## Soporte
 
-If you ever need support, you can read the following page:
+Si necesitas ayuda, puedes leer el siguiente artículo:
 
 {% page-ref page="help/support.md" %}
 
-## How to earn credits?
+## ¿Cómo ganar créditos?
 
-There are many ways to earn credits. More can be found here:
+Hay muchas manera de ganar créditos. Encuentra más información aquí:
 
 {% page-ref page="bot/earn-credits.md" %}
 
