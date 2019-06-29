@@ -1,7 +1,7 @@
 # Tabla de contenidos
 
 * [LenoxBot](README.md)
-* [Empezando](getting-started.md)
+* [Comenzando](getting-started.md)
 * [Registros de cambios](changelog.md)
 
 ## Bot
