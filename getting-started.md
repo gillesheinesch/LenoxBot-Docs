@@ -18,7 +18,7 @@ Tenemos muchos módulos diferentes que ofrecen a su servidor de discord una gran
 
 ## www.lenoxbot.com \(Sitio Web & Panel de Administración\)
 
-Nuestra página web le ofrece un completo panel de administración con muchas características. Leer más:
+Nuestro sitio web le ofrece un completo panel de administración con muchas características. Leer más:
 
 {% page-ref page="website/dashboard.md" %}
 
