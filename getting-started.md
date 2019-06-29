@@ -2,7 +2,7 @@
 descripción: Un resumen de los artículos más importantes de la Documentación de LenoxBot.
 ---
 
-# Iniciando
+# Empezando
 
 ## Comandos
 
