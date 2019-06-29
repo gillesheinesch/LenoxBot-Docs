@@ -1,49 +1,49 @@
-# Table of contents
+# Tabla de contenidos
 
 * [LenoxBot](README.md)
-* [Getting started](getting-started.md)
-* [Changelog](changelog.md)
+* [Empezando](getting-started.md)
+* [Registros de cambios](changelog.md)
 
 ## Bot
 
-* [Badges](bot/badges.md)
-* [Daily streak](bot/daily-streak.md)
-* [My credits are gone](bot/my-credits-are-gone.md)
-* [Earn credits](bot/earn-credits.md)
-* [Reminder of daily](bot/reminder-of-daily.md)
-* [Buy/Sell items](bot/buy-sell-items.md)
-* [Upgrade your inventoryslots](bot/upgrade-your-inventoryslots.md)
+* [Insignias](bot/badges.md)
+* [Racha Diaria](bot/daily-streak.md)
+* [Mis créditos se han ido](bot/my-credits-are-gone.md)
+* [Ganar créditos](bot/earn-credits.md)
+* [Recordatorio diario](bot/reminder-of-daily.md)
+* [Comprar/vender items](bot/buy-sell-items.md)
+* [Mejorar tu inventario](bot/upgrade-your-inventoryslots.md)
 
-## Help
+## Ayuda
 
-* [Support](help/support.md)
-* [Social Media](help/social-media.md)
-* [Updates](help/updates.md)
-* [Create a bugreport/suggestion](help/create-a-bugreport-suggestion.md)
+* [Soporte](help/support.md)
+* [Redes Sociales](help/social-media.md)
+* [Actualizaciones](help/updates.md)
+* [Crear un reporte de bug/sugerencia](help/create-a-bugreport-suggestion.md)
 
-## Tutorials
+## Tutoriales
 
-* [Set socialmedia](tutorials/how-to-set-socialmedia.md)
-* [Set up the mute-command](tutorials/how-to-set-up-the-mute-command.md)
-* [Create a playlist](tutorials/how-to-create-a-playlist.md)
-* [Set up the application module](tutorials/set-up-the-application-module.md)
-* [Create an embed](tutorials/how-to-create-an-embed.md)
-* [Own instance of LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
-* [Invite LenoxBot](tutorials/invite-lenoxbot.md)
+* [Colocar una red social](tutorials/how-to-set-socialmedia.md)
+* [Configurar el comando de silencio](tutorials/how-to-set-up-the-mute-command.md)
+* [Crear una lista de reproducción](tutorials/how-to-create-a-playlist.md)
+* [Configurar el módulo de aplicación](tutorials/set-up-the-application-module.md)
+* [Crear un incrustado](tutorials/how-to-create-an-embed.md)
+* [Alojar mi propio LenoxBot](tutorials/how-can-i-host-my-own-instance-of-lenoxbot.md)
+* [Invitar a LenoxBot](tutorials/invite-lenoxbot.md)
 
-## Website
+## Sitio Web
 
-* [Leaderboards](website/leaderboards.md)
-* [Dashboard](website/dashboard.md)
-* [Commands](website/commands.md)
-* [Modules](website/modules.md)
+* [Tablas de clasificación](website/leaderboards.md)
+* [Panel de administración](website/dashboard.md)
+* [Comandos](website/commands.md)
+* [Módulos](website/modules.md)
 
-## Team
+## Equipo
 
-* [Staff Members](team/staff-members.md)
-* [Translator](team/translator.md)
+* [Miembros del Staff](team/staff-members.md)
+* [Traductor](team/translator.md)
 
-## Donate
+## Donar
 
-* [Donate](donate/donate-1.md)
+* [Donar](donate/donate-1.md)
 
