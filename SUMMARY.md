@@ -6,7 +6,7 @@
 
 ## Bot
 
-* [Insigneas](bot/badges.md)
+* [Insignias](bot/badges.md)
 * [Racha Diaria](bot/daily-streak.md)
 * [Mis créditos se han ido](bot/my-credits-are-gone.md)
 * [Ganar créditos](bot/earn-credits.md)
