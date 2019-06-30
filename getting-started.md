@@ -30,7 +30,7 @@ Si necesitas ayuda, puedes leer el siguiente artículo:
 
 ## ¿Cómo ganar créditos?
 
-Hay muchas manera de ganar créditos. Encuentra más información aquí:
+Hay muchas maneras de ganar créditos. Encuentra más información aquí:
 
 {% page-ref page="bot/earn-credits.md" %}
 
