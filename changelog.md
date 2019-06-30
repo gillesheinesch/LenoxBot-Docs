@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.13.0 - 2019-06-30
+
+{% tabs %}
+{% tab title="Changed" %}
+* Many language strings updated
+* Performance updates
+* Request credits using a userID \(`?c <USERID>`\)
+* Added Icons in the job list
+{% endtab %}
+
+{% tab title="Added" %}
+* The webuser is now able to see the used inventoryslots on a profile user page
+* New command `?remind` : Sets a reminder
+* New NSFW command `?hentaihaven` : Random HentaiHaven videos
+* New HELP command `?lenoxbotteam` : All LenoxBot staff members
+{% endtab %}
+
+{% tab title="Fixed" %}
+* ?hangman bug fixed
+* Unmute reason was 1 after a user got automatically unmuted by LenoxBot
+* Error pages on the website after requesting the servers page
+{% endtab %}
+{% endtabs %}
+
 ## 1.11.0 - 2019-06-01
 
 {% tabs %}
