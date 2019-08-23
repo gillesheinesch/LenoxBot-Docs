@@ -45,6 +45,6 @@ Now you can create an invite link for your bot [**here**](https://discordapi.com
 {% endtabs %}
 
 {% hint style="info" %}
-If you need any help, you can join our [Discord Server](https://lenoxbot.com/discord)
+If you need any help, you can join our support page [**here**](https://monkeydev.discourse.group/c/support).
 {% endhint %}
 
