@@ -1,5 +1,48 @@
 # Changelog
 
+## 1.15.0 - 2019-09-22
+
+Many updated strings for website and the bot
+
+{% tabs %}
+{% tab title="Bot" %}
+* Ban a user with its id: `?ban {userid} {reason`
+* Ban or tempban reasons can now be seen in the Discord application when you click on a ban 
+* If you type `?clear 2`, this will delete the last 2 messages which were sent before executing the command. This means that the command doesn't count as one message which should be deleted 
+* Fixed music module \(`?cmds Music`\)
+* Fixed double response messages when direct messaging the bot
+* If you're LenoxBot staff member, it can now be seen if you use the command `?userinfo` 
+* Many updated strings for the bot 
+* To pay some credits to somebody, you can use the comman `?paycredits` now also with a userid 
+* Sometimes the custom emojis of a Discord server weren't shown when using `?serverinfo`
+* `?hentaihaven` commands has been fixed
+* If modlog is activated and a moderator executes `?clear`, it gets logged in the modlog channel 
+* To execute `?clear`, the moderator must give a reason for this use of `?clear` 
+* Fixed the `?channelblacklistremove` command 
+* New commands for LenoxBot staff members \(?senditem & ?setstreak & ?guildinformation\). Deleted the commands `?prefixfinder` and `?languagefinder` 
+* If you execute `?inventory upgrade` it uses one inventoryslotticket
+* Fixed a bug that you couldn't play a playlist with the command `?playplaylist`
+{% endtab %}
+
+{% tab title="Website" %}
+* The browser tabs of **lenoxbot.com** are now translated too 
+
+![translated browser tabs](.gitbook/assets/stkwidw%20%281%29.png)
+
+* Your session on the website is now persistent. This means that you stay logged in also if the bot restarts
+* New section on our first page - "What our customers say?" 
+* If you click on "Vote" in the navigation bar, you get an explanation of how the voting system works LenoxBot Staff members see staff-only commands now on the /commands page 
+* In the logs on the dashboard you can now see where a setting has been changed. Either via the dashboard or a command 
+* All dashboard logs should be translated now 
+* If you have a LenoxBot Premium Discord server, it gets a new design in the /servers list 
+* Some design changes for the /servers page \(for example transparent background\) 
+* Servers get sorted now if you visit the /servers page. All Discord servers that have LenoxBot, are listed first in the server list 
+* Fixed the profile page and the feature cards on the main page
+{% endtab %}
+{% endtabs %}
+
+
+
 ## 1.13.0 - 2019-06-30
 
 {% tabs %}
